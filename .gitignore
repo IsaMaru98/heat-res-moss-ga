@@ -1,1 +1,10 @@
 *.bam
+*.fastq
+*.fq
+*.h5
+*.zip
+*.tar.gz
+*.sam
+*.bam
+*.bai
+*.log
