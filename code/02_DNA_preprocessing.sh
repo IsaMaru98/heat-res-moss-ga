@@ -3,8 +3,8 @@
 #SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 1:00:00
-#SBATCH -J DNA-preprocesing-illumina
+#SBATCH -t 2:00:00
+#SBATCH -J DNA-quality-after-trimming
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user mama8042@student.uu.se
 #SBATCH --output=%x.%j.out
@@ -12,6 +12,6 @@
 module load bioinfo-tools
 module load FastQC/0.11.9ll
 # Your commands
-export JOBDIR=/home/isamaru/genome-analysis/DNA_analysis/01_DNA_preprocessing
+export JOBDIR=/home/isamaru/genome-analysis/DNA_analysis/02_DNA_preprocessing
 cd $JOBDIR
-fastqc $JOBDIR/chr3_illumina_R1.fastq.gz -o $JOBDIR
+fastqc $JOBDIR/output_trimmed_1U.fastq.gz -o $JOBDIR
