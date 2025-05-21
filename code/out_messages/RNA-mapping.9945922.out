@@ -1,0 +1,52 @@
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Control_1_f1.fq.gz /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Control_1_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/mapped/Control_1_ --outSAMtype BAM Unsorted
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 22:18:00 ..... started STAR run
+May 09 22:18:00 ..... loading genome
+May 09 22:18:15 ..... started mapping
+May 09 23:58:41 ..... finished mapping
+May 09 23:58:41 ..... finished successfully
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Control_2_f1.fq.gz /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Control_2_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/mapped/Control_2_ --outSAMtype BAM Unsorted
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 23:58:41 ..... started STAR run
+May 09 23:58:41 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+May 09 23:58:41 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Control_3_f1.fq.gz /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Control_3_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/mapped/Control_3_ --outSAMtype BAM Unsorted
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 23:58:41 ..... started STAR run
+May 09 23:58:41 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+May 09 23:58:41 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Heat_treated_42_12h_1_f1.fq.gz /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Heat_treated_42_12h_1_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/mapped/Heat_treated_42_12h_1_ --outSAMtype BAM Unsorted
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 23:58:41 ..... started STAR run
+May 09 23:58:41 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+May 09 23:58:41 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Heat_treated_42_12h_2_f1.fq.gz /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Heat_treated_42_12h_2_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/mapped/Heat_treated_42_12h_2_ --outSAMtype BAM Unsorted
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 23:58:41 ..... started STAR run
+May 09 23:58:42 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+May 09 23:58:42 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Heat_treated_42_12h_3_f1.fq.gz /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/Heat_treated_42_12h_3_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/RNA_analysis/01_RNA_mapping/mapped/Heat_treated_42_12h_3_ --outSAMtype BAM Unsorted
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 23:58:42 ..... started STAR run
+May 09 23:58:42 ..... loading genome
+
+EXITING because of FATAL ERROR: could not open genome file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//genomeParameters.txt
+SOLUTION: check that the path to genome files, specified in --genomeDir is correct and the files are present, and have user read permsissions
+
+May 09 23:58:42 ...... FATAL ERROR, exiting

@@ -1,0 +1,58 @@
+[I::main_pre] make juicer pre input from BIN file /home/isamaru/genome-analysis/DNA_analysis/04_DNA_scaffolding/scaffolds.bin
+[I::make_juicer_pre_file_from_bin] 19723009 read pairs processed: 0 unmapped
+[I::main_pre] chromosome sizes for juicer_tools pre -
+PRE_C_SIZE: scaffold_1 15996546
+PRE_C_SIZE: scaffold_2 104941
+PRE_C_SIZE: scaffold_3 100923
+PRE_C_SIZE: scaffold_4 76546
+PRE_C_SIZE: scaffold_5 64830
+PRE_C_SIZE: scaffold_6 54469
+PRE_C_SIZE: scaffold_7 53560
+PRE_C_SIZE: scaffold_8 38289
+PRE_C_SIZE: scaffold_9 37319
+PRE_C_SIZE: scaffold_10 35404
+PRE_C_SIZE: scaffold_11 35200
+PRE_C_SIZE: scaffold_12 30288
+PRE_C_SIZE: scaffold_13 27051
+PRE_C_SIZE: scaffold_14 25966
+PRE_C_SIZE: scaffold_15 23645
+PRE_C_SIZE: scaffold_16 23432
+PRE_C_SIZE: scaffold_17 22152
+PRE_C_SIZE: scaffold_18 21656
+PRE_C_SIZE: scaffold_19 19272
+PRE_C_SIZE: scaffold_20 18293
+PRE_C_SIZE: scaffold_21 18224
+PRE_C_SIZE: scaffold_22 18140
+PRE_C_SIZE: scaffold_23 17701
+PRE_C_SIZE: scaffold_24 17512
+PRE_C_SIZE: scaffold_25 17484
+PRE_C_SIZE: scaffold_26 16665
+PRE_C_SIZE: scaffold_27 13534
+PRE_C_SIZE: scaffold_28 13092
+PRE_C_SIZE: scaffold_29 10036
+PRE_C_SIZE: scaffold_30 9712
+PRE_C_SIZE: scaffold_31 9000
+PRE_C_SIZE: scaffold_32 8977
+PRE_C_SIZE: scaffold_33 8895
+PRE_C_SIZE: scaffold_34 3703
+PRE_C_SIZE: scaffold_35 3140
+PRE_C_SIZE: scaffold_36 3047
+PRE_C_SIZE: scaffold_37 2530
+PRE_C_SIZE: scaffold_38 2393
+PRE_C_SIZE: scaffold_39 642
+[I::main_pre] Version: 1.2.2
+[I::main_pre] CMD: juicer pre /home/isamaru/genome-analysis/DNA_analysis/04_DNA_scaffolding/scaffolds.bin /home/isamaru/genome-analysis/DNA_analysis/04_DNA_scaffolding/scaffolds_scaffolds_final.agp /home/isamaru/genome-analysis/DNA_analysis/01_DNA_assembly/polished_assembly.fasta.fai
+[I::main_pre] Real time: 17.143 sec; CPU: 7.473 sec; Peak RSS: 0.001 GB
+WARN [2025-04-28T15:43:49,723]  [Globals.java:138] [main]  Development mode is enabled
+Using 1 CPU thread(s)
+Not including fragment map
+Start preprocess
+Writing header
+Writing body
+java.lang.RuntimeException: No reads in Hi-C contact matrices. This could be because the MAPQ filter is set too high (-q) or because all reads map to the same fragment.
+	at juicebox.tools.utils.original.MatrixZoomDataPP.mergeAndWriteBlocks(MatrixZoomDataPP.java:276)
+	at juicebox.tools.utils.original.Preprocessor.writeMatrix(Preprocessor.java:970)
+	at juicebox.tools.utils.original.Preprocessor.writeBody(Preprocessor.java:659)
+	at juicebox.tools.utils.original.Preprocessor.preprocess(Preprocessor.java:425)
+	at juicebox.tools.clt.old.PreProcessing.run(PreProcessing.java:139)
+	at juicebox.tools.HiCTools.main(HiCTools.java:94)

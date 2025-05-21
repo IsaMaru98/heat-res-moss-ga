@@ -1,0 +1,58 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.3
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 6 BAM files                                      ||
+||                                                                            ||
+||                           control_1.sorted.bam                             ||
+||                           control_2.sorted.bam                             ||
+||                           control_3.sorted.bam                             ||
+||                           heat_treated_1.sorted.bam                        ||
+||                           heat_treated_2.sorted.bam                        ||
+||                           heat_treated_3.sorted.bam                        ||
+||                                                                            ||
+||             Output file : counts.txt                                       ||
+||                 Summary : counts.txt.summary                               ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : no                                               ||
+||              Annotation : braker.gtf (GTF)                                 ||
+||      Dir for temp files : ./                                               ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file braker.gtf ...                                        ||
+||    Features : 21501                                                        ||
+||    Meta-features : 3844                                                    ||
+||    Chromosomes/contigs : 33                                                ||
+||                                                                            ||
+|| Process BAM file control_1.sorted.bam...                                   ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 43900777                                             ||
+||    Successfully assigned alignments : 2711920 (6.2%)                       ||
+||    Running time : 0.14 minutes                                             ||
+||                                                                            ||
+|| Process BAM file control_2.sorted.bam...                                   ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 44338298                                             ||
+||    Successfully assigned alignments : 2370467 (5.3%)                       ||
+||    Running time : 0.14 minutes                                             ||
+||                                                                            ||
+|| Process BAM file control_3.sorted.bam...                                   ||
+ERROR: the BAM file seems incomplete : this -1, last 12937.

@@ -1,0 +1,7 @@
+trimmomatic/0.39 loaded, see 'module help trimmomatic/0.39' for more information.
+TrimmomaticPE: Started with arguments:
+ -phred33 -threads 2 chr3_illumina_R1.fastq.gz chr3_illumina_R2.fastq.gz output_forward_paired.fastq.gz output_forward_unpaired.fastq.gz output_reverse_paired.fastq.gz output_reverse_unpaired.fastq.gz ILLUMINACLIP:/sw/bioinfo/trimmomatic/0.39/snowy/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MAXINFO:120:0.7 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 20979851 Both Surviving: 20736932 (98.84%) Forward Only Surviving: 148104 (0.71%) Reverse Only Surviving: 88038 (0.42%) Dropped: 6777 (0.03%)
+TrimmomaticPE: Completed successfully

@@ -1,0 +1,70 @@
+augustus/3.5.0-20231223-33fc04d: If you see errors about not being able to write to an augustus directory, see 'module help augustus/3.5.0-20231223-33fc04d'
+The environment variable BUSCO_LINEAGE_SETS is set to a directory containing
+BUSCO v5 lineage sets.  Use with the -l option, for example:
+
+    busco -l $BUSCO_LINEAGE_SETS/fungi_odb10 ...
+
+A list of available lineage sets is provided via 'module help BUSCO/5.7.1'
+
+----
+If you see this error from BUSCO:
+
+    Error: Cannot write to Augustus directory, please make sure you have write permissions to <directory>
+
+then you need to create a local copy of the config directory from the augustus
+module with 'source $AUGUSTUS_CONFIG_COPY'.  See 'module help augustus/3.5.0-20231223-33fc04d'
+
+Copying Augustus config directory to current directory...adjusting permissions...updating AUGUSTUS_CONFIG_PATH...done
+export AUGUSTUS_CONFIG_PATH=/home/isamaru/genome-analysis/DNA_analysis/03_DNA_evaluation/03_2_busco/augustus_config
+2025-04-10 10:01:13 INFO:	***** Start a BUSCO v5.7.1 analysis, current time: 04/10/2025 10:01:13 *****
+2025-04-10 10:01:13 INFO:	Configuring BUSCO with /sw/bioinfo/BUSCO/5.7.1/snowy/config.ini
+2025-04-10 10:01:13 INFO:	Running genome mode
+2025-04-10 10:01:13 INFO:	'Force' option selected; overwriting previous results directory
+2025-04-10 10:01:13 INFO:	Input file is /home/isamaru/genome-analysis/DNA_analysis/01_DNA_assembly/polished_assembly.fasta
+2025-04-10 10:01:13 INFO:	Using local lineages directory /sw/bioinfo/BUSCO/v5_lineage_sets/lineages/embryophyta_odb10
+2025-04-10 10:01:14 INFO:	Running BUSCO using lineage dataset embryophyta_odb10 (eukaryota, 2024-01-08)
+2025-04-10 10:01:14 INFO:	Running 1 job(s) on bbtools, starting at 04/10/2025 10:01:14
+2025-04-10 10:01:15 INFO:	[bbtools]	1 of 1 task(s) completed
+2025-04-10 10:01:15 INFO:	Running 1 job(s) on miniprot_index, starting at 04/10/2025 10:01:15
+2025-04-10 10:01:19 INFO:	[miniprot_index]	1 of 1 task(s) completed
+2025-04-10 10:01:19 WARNING:	Unable to remove compressed refseq file in dataset download
+2025-04-10 10:01:19 INFO:	Running 1 job(s) on miniprot_align, starting at 04/10/2025 10:01:19
+2025-04-10 10:18:54 INFO:	[miniprot_align]	1 of 1 task(s) completed
+2025-04-10 10:19:06 INFO:	***** Run HMMER on gene sequences *****
+2025-04-10 10:19:06 INFO:	Running 642 job(s) on hmmsearch, starting at 04/10/2025 10:19:06
+2025-04-10 10:19:11 INFO:	[hmmsearch]	65 of 642 task(s) completed
+2025-04-10 10:19:14 INFO:	[hmmsearch]	129 of 642 task(s) completed
+2025-04-10 10:19:17 INFO:	[hmmsearch]	193 of 642 task(s) completed
+2025-04-10 10:19:19 INFO:	[hmmsearch]	257 of 642 task(s) completed
+2025-04-10 10:19:22 INFO:	[hmmsearch]	322 of 642 task(s) completed
+2025-04-10 10:19:25 INFO:	[hmmsearch]	386 of 642 task(s) completed
+2025-04-10 10:19:29 INFO:	[hmmsearch]	450 of 642 task(s) completed
+2025-04-10 10:19:33 INFO:	[hmmsearch]	514 of 642 task(s) completed
+2025-04-10 10:19:37 INFO:	[hmmsearch]	578 of 642 task(s) completed
+2025-04-10 10:19:42 INFO:	[hmmsearch]	642 of 642 task(s) completed
+2025-04-10 10:19:43 INFO:	3 candidate overlapping regions found
+2025-04-10 10:19:43 INFO:	1481 exons in total
+2025-04-10 10:19:43 WARNING:	5 of 152 Complete matches (3.3%) contain internal stop codons in Miniprot gene predictions
+2025-04-10 10:19:43 INFO:	
+
+    -------------------------------------------------------------------------------------------
+    |Results from dataset embryophyta_odb10                                                    |
+    -------------------------------------------------------------------------------------------
+    |C:9.4%[S:9.0%,D:0.4%],F:0.4%,M:90.2%,n:1614,E:3.3%                                        |
+    |152    Complete BUSCOs (C)    (of which 5 contain internal stop codons)                   |
+    |146    Complete and single-copy BUSCOs (S)                                                |
+    |6    Complete and duplicated BUSCOs (D)                                                   |
+    |7    Fragmented BUSCOs (F)                                                                |
+    |1455    Missing BUSCOs (M)                                                                |
+    |1614    Total BUSCO groups searched                                                       |
+    -------------------------------------------------------------------------------------------
+2025-04-10 10:19:44 INFO:	BUSCO analysis done with WARNING(s). Total running time: 1110 seconds
+
+***** Summary of warnings: *****
+2025-04-10 10:01:19 WARNING:busco.busco_tools.base	Unable to remove compressed refseq file in dataset download
+2025-04-10 10:19:43 WARNING:busco.busco_tools.hmmer	5 of 152 Complete matches (3.3%) contain internal stop codons in Miniprot gene predictions
+
+2025-04-10 10:19:44 INFO:	Results written in home/isamaru/genome-analysis/DNA_analysis/03_DNA_evaluation/03_2_busco
+2025-04-10 10:19:44 INFO:	For assistance with interpreting the results, please consult the userguide: https://busco.ezlab.org/busco_userguide.html
+
+2025-04-10 10:19:44 INFO:	Visit this page https://gitlab.com/ezlab/busco#how-to-cite-busco to see how to cite BUSCO

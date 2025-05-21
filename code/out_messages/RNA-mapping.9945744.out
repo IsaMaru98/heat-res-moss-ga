@@ -1,0 +1,75 @@
+	STAR --runThreadN 16 --runMode genomeGenerate --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --genomeFastaFiles /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/scaffolds_scaffolds_final.fa.masked
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:00 ..... started STAR run
+May 09 11:22:00 ... starting to generate Genome files
+!!!!! WARNING: --genomeSAindexNbases 14 is too large for the genome size=17004209, which may cause seg-fault at the mapping step. Re-run genome generation with recommended --genomeSAindexNbases 11
+May 09 11:22:01 ... starting to sort Suffix Array. This may take a long time...
+May 09 11:22:01 ... sorting Suffix Array chunks and saving them to disk...
+May 09 11:22:04 ... loading chunks from disk, packing SA...
+May 09 11:22:05 ... finished generating suffix array
+May 09 11:22:05 ... generating Suffix Array index
+May 09 11:22:13 ... completed Suffix Array index
+May 09 11:22:13 ... writing Genome to disk ...
+May 09 11:22:13 ... writing Suffix Array to disk ...
+May 09 11:22:14 ... writing SAindex to disk
+May 09 11:22:29 ..... finished successfully
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Control_1_f1.fq.gz /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Control_1_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/mapped/Control_1_ --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:29 ..... started STAR run
+May 09 11:22:29 ..... loading genome
+
+Transcriptome.cpp:18:Transcriptome: exiting because of *INPUT FILE* error: could not open input file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//geneInfo.tab
+Solution: check that the file exists and you have read permission for this file
+          SOLUTION: utilize --sjdbGTFfile /path/to/annotations.gtf option at the genome generation step or mapping step
+
+May 09 11:22:30 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Control_2_f1.fq.gz /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Control_2_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/mapped/Control_2_ --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:30 ..... started STAR run
+May 09 11:22:30 ..... loading genome
+
+Transcriptome.cpp:18:Transcriptome: exiting because of *INPUT FILE* error: could not open input file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//geneInfo.tab
+Solution: check that the file exists and you have read permission for this file
+          SOLUTION: utilize --sjdbGTFfile /path/to/annotations.gtf option at the genome generation step or mapping step
+
+May 09 11:22:31 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Control_3_f1.fq.gz /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Control_3_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/mapped/Control_3_ --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:31 ..... started STAR run
+May 09 11:22:32 ..... loading genome
+
+Transcriptome.cpp:18:Transcriptome: exiting because of *INPUT FILE* error: could not open input file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//geneInfo.tab
+Solution: check that the file exists and you have read permission for this file
+          SOLUTION: utilize --sjdbGTFfile /path/to/annotations.gtf option at the genome generation step or mapping step
+
+May 09 11:22:32 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Heat_treated_42_12h_1_f1.fq.gz /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Heat_treated_42_12h_1_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/mapped/Heat_treated_42_12h_1_ --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:33 ..... started STAR run
+May 09 11:22:33 ..... loading genome
+
+Transcriptome.cpp:18:Transcriptome: exiting because of *INPUT FILE* error: could not open input file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//geneInfo.tab
+Solution: check that the file exists and you have read permission for this file
+          SOLUTION: utilize --sjdbGTFfile /path/to/annotations.gtf option at the genome generation step or mapping step
+
+May 09 11:22:34 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Heat_treated_42_12h_2_f1.fq.gz /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Heat_treated_42_12h_2_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/mapped/Heat_treated_42_12h_2_ --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:34 ..... started STAR run
+May 09 11:22:34 ..... loading genome
+
+Transcriptome.cpp:18:Transcriptome: exiting because of *INPUT FILE* error: could not open input file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//geneInfo.tab
+Solution: check that the file exists and you have read permission for this file
+          SOLUTION: utilize --sjdbGTFfile /path/to/annotations.gtf option at the genome generation step or mapping step
+
+May 09 11:22:35 ...... FATAL ERROR, exiting
+	STAR --runThreadN 16 --genomeDir /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index --readFilesCommand zcat --readFilesIn /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Heat_treated_42_12h_3_f1.fq.gz /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/Heat_treated_42_12h_3_r2.fq.gz --outFileNamePrefix /home/isamaru/genome-analysis/DNA_analysis/06_RNA_mapping/mapped/Heat_treated_42_12h_3_ --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts
+	STAR version: 2.7.11a   compiled: 2023-11-14T12:13:04+0100 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.11a/src/STAR-2.7.11a/source
+May 09 11:22:35 ..... started STAR run
+May 09 11:22:35 ..... loading genome
+
+Transcriptome.cpp:18:Transcriptome: exiting because of *INPUT FILE* error: could not open input file /home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/index//geneInfo.tab
+Solution: check that the file exists and you have read permission for this file
+          SOLUTION: utilize --sjdbGTFfile /path/to/annotations.gtf option at the genome generation step or mapping step
+
+May 09 11:22:36 ...... FATAL ERROR, exiting

@@ -1,0 +1,7 @@
+samtools sort: failed writing to "control_3.sorted.bam.tmp.0001.bam": No such file or directory
+[bam_sort_core] merging from 2 files and 8 in-memory blocks...
+samtools sort: failed writing to "heat_treated_1.sorted.bam": No such file or directory
+[bam_sort_core] merging from 2 files and 8 in-memory blocks...
+samtools sort: failed writing to "heat_treated_2.sorted.bam": No such file or directory
+[E::hts_open_format] Failed to open file "heat_treated_3.sa" : No such file or directory
+samtools sort: can't open "heat_treated_3.sa": No such file or directory

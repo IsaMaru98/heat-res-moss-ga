@@ -1,0 +1,3294 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"boiinfo-tools"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "boiinfo-tools"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+RepeatMasker version 4.1.5
+Search Engine: NCBI/RMBLAST [ 2.14.0+ ]
+
+Using Master RepeatMasker Database: /sw/bioinfo/RepeatMasker/4.1.5/rackham/Libraries/RepeatMaskerLib.h5
+  Title    : Dfam withRBRM
+  Version  : 3.7
+  Date     : 2023-01-11
+  Families : 3,482,741
+
+Species/Taxa Search:
+  Homo sapiens [NCBI Taxonomy ID: 9606]
+  Lineage: root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;
+           Eumetazoa;Bilateria;Deuterostomia;Chordata;
+           Craniata <chordates>;Vertebrata <vertebrates>;
+           Gnathostomata <vertebrates>;Teleostomi;Euteleostomi;
+           Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;
+           Mammalia;Theria <mammals>;Eutheria;Boreoeutheria;
+           Euarchontoglires;Primates;Haplorrhini;Simiiformes
+  1358 families in ancestor taxa; 53 lineage-specific families
+
+Building species libraries in: /home/isamaru/.RepeatMaskerCache/CONS-Dfam_withRBRM_3.7/homo_sapiens
+
+analyzing file /home/isamaru/genome-analysis/DNA_analysis/04_DNA_scaffolding/scaffolds_scaffolds_final.fa
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 2 of 295
+identifying Simple Repeats in batch 4 of 295
+identifying Simple Repeats in batch 1 of 295
+identifying Simple Repeats in batch 3 of 295
+identifying full-length ALUs in batch 1 of 295
+identifying full-length ALUs in batch 3 of 295
+identifying full-length ALUs in batch 4 of 295
+identifying full-length ALUs in batch 2 of 295
+identifying full-length interspersed repeats in batch 1 of 295
+identifying full-length interspersed repeats in batch 3 of 295
+identifying full-length interspersed repeats in batch 4 of 295
+identifying full-length interspersed repeats in batch 2 of 295
+identifying remaining ALUs in batch 1 of 295
+identifying remaining ALUs in batch 3 of 295
+identifying remaining ALUs in batch 4 of 295
+identifying remaining ALUs in batch 2 of 295
+identifying most interspersed repeats in batch 1 of 295
+identifying most interspersed repeats in batch 3 of 295
+identifying most interspersed repeats in batch 4 of 295
+identifying most interspersed repeats in batch 2 of 295
+identifying long interspersed repeats in batch 3 of 295
+identifying long interspersed repeats in batch 4 of 295
+identifying long interspersed repeats in batch 1 of 295
+identifying long interspersed repeats in batch 2 of 295
+identifying ancient repeats in batch 3 of 295
+identifying ancient repeats in batch 4 of 295
+identifying ancient repeats in batch 1 of 295
+identifying ancient repeats in batch 2 of 295
+identifying retrovirus-like sequences in batch 1 of 295
+identifying retrovirus-like sequences in batch 3 of 295
+identifying retrovirus-like sequences in batch 4 of 295
+identifying retrovirus-like sequences in batch 2 of 295
+identifying Simple Repeats in batch 1 of 295
+identifying Simple Repeats in batch 4 of 295
+identifying Simple Repeats in batch 3 of 295
+identifying Simple Repeats in batch 2 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 5 of 295
+identifying Simple Repeats in batch 6 of 295
+identifying Simple Repeats in batch 7 of 295
+identifying full-length ALUs in batch 5 of 295
+identifying Simple Repeats in batch 8 of 295
+identifying full-length ALUs in batch 6 of 295
+identifying full-length ALUs in batch 7 of 295
+identifying full-length ALUs in batch 8 of 295
+identifying full-length interspersed repeats in batch 5 of 295
+identifying full-length interspersed repeats in batch 7 of 295
+identifying full-length interspersed repeats in batch 6 of 295
+identifying full-length interspersed repeats in batch 8 of 295
+identifying remaining ALUs in batch 5 of 295
+identifying remaining ALUs in batch 7 of 295
+identifying remaining ALUs in batch 6 of 295
+identifying remaining ALUs in batch 8 of 295
+identifying most interspersed repeats in batch 5 of 295
+identifying most interspersed repeats in batch 7 of 295
+identifying most interspersed repeats in batch 6 of 295
+identifying most interspersed repeats in batch 8 of 295
+identifying long interspersed repeats in batch 5 of 295
+identifying long interspersed repeats in batch 7 of 295
+identifying long interspersed repeats in batch 6 of 295
+identifying long interspersed repeats in batch 8 of 295
+identifying ancient repeats in batch 5 of 295
+identifying ancient repeats in batch 7 of 295
+identifying ancient repeats in batch 6 of 295
+identifying ancient repeats in batch 8 of 295
+identifying retrovirus-like sequences in batch 5 of 295
+identifying retrovirus-like sequences in batch 7 of 295
+identifying retrovirus-like sequences in batch 6 of 295
+identifying retrovirus-like sequences in batch 8 of 295
+identifying Simple Repeats in batch 5 of 295
+identifying Simple Repeats in batch 7 of 295
+identifying Simple Repeats in batch 6 of 295
+identifying Simple Repeats in batch 8 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 9 of 295
+identifying Simple Repeats in batch 10 of 295
+identifying full-length ALUs in batch 9 of 295
+identifying full-length ALUs in batch 10 of 295
+identifying Simple Repeats in batch 11 of 295
+identifying Simple Repeats in batch 12 of 295
+identifying full-length ALUs in batch 11 of 295
+identifying full-length ALUs in batch 12 of 295
+identifying full-length interspersed repeats in batch 9 of 295
+identifying full-length interspersed repeats in batch 10 of 295
+identifying full-length interspersed repeats in batch 11 of 295
+identifying full-length interspersed repeats in batch 12 of 295
+identifying remaining ALUs in batch 9 of 295
+identifying remaining ALUs in batch 10 of 295
+identifying remaining ALUs in batch 11 of 295
+identifying remaining ALUs in batch 12 of 295
+identifying most interspersed repeats in batch 9 of 295
+identifying most interspersed repeats in batch 10 of 295
+identifying most interspersed repeats in batch 12 of 295
+identifying most interspersed repeats in batch 11 of 295
+identifying long interspersed repeats in batch 9 of 295
+identifying long interspersed repeats in batch 10 of 295
+identifying long interspersed repeats in batch 12 of 295
+identifying long interspersed repeats in batch 11 of 295
+identifying ancient repeats in batch 9 of 295
+identifying ancient repeats in batch 10 of 295
+identifying ancient repeats in batch 12 of 295
+identifying ancient repeats in batch 11 of 295
+identifying retrovirus-like sequences in batch 9 of 295
+identifying retrovirus-like sequences in batch 10 of 295
+identifying retrovirus-like sequences in batch 12 of 295
+identifying retrovirus-like sequences in batch 11 of 295
+identifying Simple Repeats in batch 9 of 295
+identifying Simple Repeats in batch 10 of 295
+identifying Simple Repeats in batch 12 of 295
+identifying Simple Repeats in batch 11 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 13 of 295
+identifying Simple Repeats in batch 14 of 295
+identifying full-length ALUs in batch 13 of 295
+identifying full-length ALUs in batch 14 of 295
+identifying Simple Repeats in batch 15 of 295
+identifying Simple Repeats in batch 16 of 295
+identifying full-length ALUs in batch 15 of 295
+identifying full-length ALUs in batch 16 of 295
+identifying full-length interspersed repeats in batch 13 of 295
+identifying full-length interspersed repeats in batch 14 of 295
+identifying full-length interspersed repeats in batch 15 of 295
+identifying full-length interspersed repeats in batch 16 of 295
+identifying remaining ALUs in batch 13 of 295
+identifying remaining ALUs in batch 14 of 295
+identifying remaining ALUs in batch 15 of 295
+identifying remaining ALUs in batch 16 of 295
+identifying most interspersed repeats in batch 13 of 295
+identifying most interspersed repeats in batch 14 of 295
+identifying most interspersed repeats in batch 15 of 295
+identifying most interspersed repeats in batch 16 of 295
+identifying long interspersed repeats in batch 13 of 295
+identifying long interspersed repeats in batch 14 of 295
+identifying long interspersed repeats in batch 15 of 295
+identifying long interspersed repeats in batch 16 of 295
+identifying ancient repeats in batch 13 of 295
+identifying ancient repeats in batch 14 of 295
+identifying ancient repeats in batch 15 of 295
+identifying ancient repeats in batch 16 of 295
+identifying retrovirus-like sequences in batch 13 of 295
+identifying retrovirus-like sequences in batch 14 of 295
+identifying retrovirus-like sequences in batch 15 of 295
+identifying retrovirus-like sequences in batch 16 of 295
+identifying Simple Repeats in batch 13 of 295
+identifying Simple Repeats in batch 14 of 295
+identifying Simple Repeats in batch 15 of 295
+identifying Simple Repeats in batch 16 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 17 of 295
+identifying full-length ALUs in batch 17 of 295
+identifying Simple Repeats in batch 18 of 295
+identifying Simple Repeats in batch 19 of 295
+identifying Simple Repeats in batch 20 of 295
+identifying full-length ALUs in batch 18 of 295
+identifying full-length ALUs in batch 19 of 295
+identifying full-length ALUs in batch 20 of 295
+identifying full-length interspersed repeats in batch 17 of 295
+identifying full-length interspersed repeats in batch 18 of 295
+identifying full-length interspersed repeats in batch 19 of 295
+identifying full-length interspersed repeats in batch 20 of 295
+identifying remaining ALUs in batch 17 of 295
+identifying remaining ALUs in batch 18 of 295
+identifying remaining ALUs in batch 20 of 295
+identifying remaining ALUs in batch 19 of 295
+identifying most interspersed repeats in batch 17 of 295
+identifying most interspersed repeats in batch 18 of 295
+identifying most interspersed repeats in batch 20 of 295
+identifying most interspersed repeats in batch 19 of 295
+identifying long interspersed repeats in batch 17 of 295
+identifying long interspersed repeats in batch 18 of 295
+identifying long interspersed repeats in batch 20 of 295
+identifying long interspersed repeats in batch 19 of 295
+identifying ancient repeats in batch 17 of 295
+identifying ancient repeats in batch 18 of 295
+identifying ancient repeats in batch 20 of 295
+identifying ancient repeats in batch 19 of 295
+identifying retrovirus-like sequences in batch 17 of 295
+identifying retrovirus-like sequences in batch 20 of 295
+identifying retrovirus-like sequences in batch 18 of 295
+identifying retrovirus-like sequences in batch 19 of 295
+identifying Simple Repeats in batch 17 of 295
+identifying Simple Repeats in batch 18 of 295
+identifying Simple Repeats in batch 20 of 295
+identifying Simple Repeats in batch 19 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 21 of 295
+identifying full-length ALUs in batch 21 of 295
+identifying Simple Repeats in batch 22 of 295
+identifying full-length ALUs in batch 22 of 295
+identifying Simple Repeats in batch 23 of 295
+identifying Simple Repeats in batch 24 of 295
+identifying full-length ALUs in batch 23 of 295
+identifying full-length interspersed repeats in batch 21 of 295
+identifying full-length ALUs in batch 24 of 295
+identifying full-length interspersed repeats in batch 22 of 295
+identifying full-length interspersed repeats in batch 23 of 295
+identifying full-length interspersed repeats in batch 24 of 295
+identifying remaining ALUs in batch 21 of 295
+identifying remaining ALUs in batch 22 of 295
+identifying remaining ALUs in batch 23 of 295
+identifying remaining ALUs in batch 24 of 295
+identifying most interspersed repeats in batch 21 of 295
+identifying most interspersed repeats in batch 22 of 295
+identifying most interspersed repeats in batch 24 of 295
+identifying most interspersed repeats in batch 23 of 295
+identifying long interspersed repeats in batch 21 of 295
+identifying long interspersed repeats in batch 22 of 295
+identifying long interspersed repeats in batch 24 of 295
+identifying long interspersed repeats in batch 23 of 295
+identifying ancient repeats in batch 21 of 295
+identifying ancient repeats in batch 22 of 295
+identifying ancient repeats in batch 23 of 295
+identifying ancient repeats in batch 24 of 295
+identifying retrovirus-like sequences in batch 21 of 295
+identifying retrovirus-like sequences in batch 22 of 295
+identifying Simple Repeats in batch 21 of 295
+identifying retrovirus-like sequences in batch 24 of 295
+identifying retrovirus-like sequences in batch 23 of 295
+identifying Simple Repeats in batch 22 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 23 of 295
+identifying Simple Repeats in batch 24 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 25 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 25 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 26 of 295
+identifying full-length ALUs in batch 26 of 295
+identifying Simple Repeats in batch 27 of 295
+identifying full-length interspersed repeats in batch 25 of 295
+identifying full-length ALUs in batch 27 of 295
+identifying Simple Repeats in batch 28 of 295
+identifying full-length ALUs in batch 28 of 295
+identifying full-length interspersed repeats in batch 26 of 295
+identifying full-length interspersed repeats in batch 27 of 295
+identifying full-length interspersed repeats in batch 28 of 295
+identifying remaining ALUs in batch 25 of 295
+identifying remaining ALUs in batch 26 of 295
+identifying remaining ALUs in batch 27 of 295
+identifying remaining ALUs in batch 28 of 295
+identifying most interspersed repeats in batch 25 of 295
+identifying most interspersed repeats in batch 26 of 295
+identifying most interspersed repeats in batch 27 of 295
+identifying long interspersed repeats in batch 25 of 295
+identifying most interspersed repeats in batch 28 of 295
+identifying long interspersed repeats in batch 26 of 295
+identifying ancient repeats in batch 25 of 295
+identifying long interspersed repeats in batch 27 of 295
+identifying long interspersed repeats in batch 28 of 295
+identifying ancient repeats in batch 26 of 295
+identifying retrovirus-like sequences in batch 25 of 295
+identifying ancient repeats in batch 27 of 295
+identifying ancient repeats in batch 28 of 295
+identifying Simple Repeats in batch 25 of 295
+identifying retrovirus-like sequences in batch 26 of 295
+identifying retrovirus-like sequences in batch 27 of 295
+identifying retrovirus-like sequences in batch 28 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 26 of 295
+identifying Simple Repeats in batch 27 of 295
+identifying Simple Repeats in batch 28 of 295
+identifying Simple Repeats in batch 29 of 295
+identifying full-length ALUs in batch 29 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 29 of 295
+identifying Simple Repeats in batch 30 of 295
+identifying full-length ALUs in batch 30 of 295
+identifying Simple Repeats in batch 31 of 295
+identifying full-length ALUs in batch 31 of 295
+identifying Simple Repeats in batch 32 of 295
+identifying full-length ALUs in batch 32 of 295
+identifying full-length interspersed repeats in batch 30 of 295
+identifying full-length interspersed repeats in batch 31 of 295
+identifying full-length interspersed repeats in batch 32 of 295
+identifying remaining ALUs in batch 29 of 295
+identifying remaining ALUs in batch 30 of 295
+identifying remaining ALUs in batch 31 of 295
+identifying remaining ALUs in batch 32 of 295
+identifying most interspersed repeats in batch 29 of 295
+identifying long interspersed repeats in batch 29 of 295
+identifying most interspersed repeats in batch 30 of 295
+identifying most interspersed repeats in batch 31 of 295
+identifying most interspersed repeats in batch 32 of 295
+identifying ancient repeats in batch 29 of 295
+identifying long interspersed repeats in batch 30 of 295
+identifying long interspersed repeats in batch 31 of 295
+identifying long interspersed repeats in batch 32 of 295
+identifying retrovirus-like sequences in batch 29 of 295
+identifying ancient repeats in batch 30 of 295
+identifying ancient repeats in batch 31 of 295
+identifying ancient repeats in batch 32 of 295
+identifying Simple Repeats in batch 29 of 295
+identifying retrovirus-like sequences in batch 30 of 295
+identifying retrovirus-like sequences in batch 31 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 32 of 295
+identifying Simple Repeats in batch 30 of 295
+identifying Simple Repeats in batch 31 of 295
+identifying Simple Repeats in batch 33 of 295
+identifying Simple Repeats in batch 32 of 295
+identifying full-length ALUs in batch 33 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 33 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 34 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 34 of 295
+identifying Simple Repeats in batch 35 of 295
+identifying Simple Repeats in batch 36 of 295
+identifying full-length ALUs in batch 35 of 295
+identifying full-length interspersed repeats in batch 34 of 295
+identifying full-length ALUs in batch 36 of 295
+identifying remaining ALUs in batch 33 of 295
+identifying full-length interspersed repeats in batch 35 of 295
+identifying full-length interspersed repeats in batch 36 of 295
+identifying remaining ALUs in batch 34 of 295
+identifying most interspersed repeats in batch 33 of 295
+identifying remaining ALUs in batch 35 of 295
+identifying remaining ALUs in batch 36 of 295
+identifying most interspersed repeats in batch 34 of 295
+identifying long interspersed repeats in batch 33 of 295
+identifying most interspersed repeats in batch 35 of 295
+identifying ancient repeats in batch 33 of 295
+identifying long interspersed repeats in batch 34 of 295
+identifying most interspersed repeats in batch 36 of 295
+identifying long interspersed repeats in batch 35 of 295
+identifying retrovirus-like sequences in batch 33 of 295
+identifying ancient repeats in batch 34 of 295
+identifying long interspersed repeats in batch 36 of 295
+identifying Simple Repeats in batch 33 of 295
+identifying ancient repeats in batch 35 of 295
+identifying retrovirus-like sequences in batch 34 of 295
+identifying ancient repeats in batch 36 of 295
+identifying Simple Repeats in batch 34 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 35 of 295
+identifying retrovirus-like sequences in batch 36 of 295
+identifying Simple Repeats in batch 37 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 35 of 295
+identifying full-length ALUs in batch 37 of 295
+identifying Simple Repeats in batch 36 of 295
+identifying Simple Repeats in batch 38 of 295
+identifying full-length ALUs in batch 38 of 295
+identifying full-length interspersed repeats in batch 37 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 38 of 295
+identifying Simple Repeats in batch 39 of 295
+identifying Simple Repeats in batch 40 of 295
+identifying full-length ALUs in batch 39 of 295
+identifying full-length ALUs in batch 40 of 295
+identifying remaining ALUs in batch 37 of 295
+identifying full-length interspersed repeats in batch 39 of 295
+identifying full-length interspersed repeats in batch 40 of 295
+identifying remaining ALUs in batch 38 of 295
+identifying most interspersed repeats in batch 37 of 295
+identifying remaining ALUs in batch 39 of 295
+identifying remaining ALUs in batch 40 of 295
+identifying most interspersed repeats in batch 38 of 295
+identifying long interspersed repeats in batch 37 of 295
+identifying long interspersed repeats in batch 38 of 295
+identifying ancient repeats in batch 37 of 295
+identifying most interspersed repeats in batch 39 of 295
+identifying most interspersed repeats in batch 40 of 295
+identifying ancient repeats in batch 38 of 295
+identifying retrovirus-like sequences in batch 37 of 295
+identifying long interspersed repeats in batch 39 of 295
+identifying long interspersed repeats in batch 40 of 295
+identifying Simple Repeats in batch 37 of 295
+identifying retrovirus-like sequences in batch 38 of 295
+identifying ancient repeats in batch 39 of 295
+identifying ancient repeats in batch 40 of 295
+identifying Simple Repeats in batch 38 of 295
+identifying retrovirus-like sequences in batch 39 of 295
+identifying retrovirus-like sequences in batch 40 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 39 of 295
+identifying Simple Repeats in batch 40 of 295
+identifying Simple Repeats in batch 41 of 295
+identifying full-length ALUs in batch 41 of 295
+identifying Simple Repeats in batch 42 of 295
+identifying full-length ALUs in batch 42 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 41 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 42 of 295
+identifying Simple Repeats in batch 43 of 295
+identifying full-length ALUs in batch 43 of 295
+identifying Simple Repeats in batch 44 of 295
+identifying full-length ALUs in batch 44 of 295
+identifying remaining ALUs in batch 41 of 295
+identifying full-length interspersed repeats in batch 43 of 295
+identifying remaining ALUs in batch 42 of 295
+identifying full-length interspersed repeats in batch 44 of 295
+identifying most interspersed repeats in batch 41 of 295
+identifying remaining ALUs in batch 43 of 295
+identifying most interspersed repeats in batch 42 of 295
+identifying remaining ALUs in batch 44 of 295
+identifying long interspersed repeats in batch 41 of 295
+identifying long interspersed repeats in batch 42 of 295
+identifying most interspersed repeats in batch 43 of 295
+identifying ancient repeats in batch 41 of 295
+identifying most interspersed repeats in batch 44 of 295
+identifying ancient repeats in batch 42 of 295
+identifying retrovirus-like sequences in batch 41 of 295
+identifying long interspersed repeats in batch 43 of 295
+identifying long interspersed repeats in batch 44 of 295
+identifying retrovirus-like sequences in batch 42 of 295
+identifying Simple Repeats in batch 41 of 295
+identifying ancient repeats in batch 43 of 295
+identifying ancient repeats in batch 44 of 295
+identifying Simple Repeats in batch 42 of 295
+identifying retrovirus-like sequences in batch 43 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 44 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 43 of 295
+identifying Simple Repeats in batch 45 of 295
+identifying Simple Repeats in batch 44 of 295
+identifying full-length ALUs in batch 45 of 295
+identifying Simple Repeats in batch 46 of 295
+identifying full-length ALUs in batch 46 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 45 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 46 of 295
+identifying Simple Repeats in batch 47 of 295
+identifying Simple Repeats in batch 48 of 295
+identifying full-length ALUs in batch 48 of 295
+identifying full-length ALUs in batch 47 of 295
+identifying remaining ALUs in batch 45 of 295
+identifying full-length interspersed repeats in batch 48 of 295
+identifying full-length interspersed repeats in batch 47 of 295
+identifying remaining ALUs in batch 46 of 295
+identifying most interspersed repeats in batch 45 of 295
+identifying remaining ALUs in batch 48 of 295
+identifying remaining ALUs in batch 47 of 295
+identifying most interspersed repeats in batch 46 of 295
+identifying long interspersed repeats in batch 45 of 295
+identifying long interspersed repeats in batch 46 of 295
+identifying most interspersed repeats in batch 48 of 295
+identifying most interspersed repeats in batch 47 of 295
+identifying ancient repeats in batch 45 of 295
+identifying ancient repeats in batch 46 of 295
+identifying long interspersed repeats in batch 48 of 295
+identifying long interspersed repeats in batch 47 of 295
+identifying retrovirus-like sequences in batch 45 of 295
+identifying retrovirus-like sequences in batch 46 of 295
+identifying Simple Repeats in batch 45 of 295
+identifying ancient repeats in batch 48 of 295
+identifying ancient repeats in batch 47 of 295
+identifying Simple Repeats in batch 46 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 48 of 295
+identifying retrovirus-like sequences in batch 47 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 49 of 295
+identifying Simple Repeats in batch 48 of 295
+identifying Simple Repeats in batch 47 of 295
+identifying full-length ALUs in batch 49 of 295
+identifying Simple Repeats in batch 50 of 295
+identifying full-length ALUs in batch 50 of 295
+identifying full-length interspersed repeats in batch 49 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 50 of 295
+identifying Simple Repeats in batch 51 of 295
+identifying full-length ALUs in batch 51 of 295
+identifying Simple Repeats in batch 52 of 295
+identifying full-length ALUs in batch 52 of 295
+identifying remaining ALUs in batch 49 of 295
+identifying full-length interspersed repeats in batch 51 of 295
+identifying remaining ALUs in batch 50 of 295
+identifying full-length interspersed repeats in batch 52 of 295
+identifying most interspersed repeats in batch 49 of 295
+identifying remaining ALUs in batch 51 of 295
+identifying most interspersed repeats in batch 50 of 295
+identifying remaining ALUs in batch 52 of 295
+identifying long interspersed repeats in batch 49 of 295
+identifying long interspersed repeats in batch 50 of 295
+identifying most interspersed repeats in batch 51 of 295
+identifying ancient repeats in batch 49 of 295
+identifying most interspersed repeats in batch 52 of 295
+identifying ancient repeats in batch 50 of 295
+identifying retrovirus-like sequences in batch 49 of 295
+identifying long interspersed repeats in batch 51 of 295
+identifying long interspersed repeats in batch 52 of 295
+identifying Simple Repeats in batch 49 of 295
+identifying retrovirus-like sequences in batch 50 of 295
+identifying ancient repeats in batch 51 of 295
+identifying ancient repeats in batch 52 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 50 of 295
+identifying retrovirus-like sequences in batch 51 of 295
+identifying retrovirus-like sequences in batch 52 of 295
+identifying Simple Repeats in batch 53 of 295
+identifying full-length ALUs in batch 53 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 51 of 295
+identifying Simple Repeats in batch 52 of 295
+identifying full-length interspersed repeats in batch 53 of 295
+identifying Simple Repeats in batch 54 of 295
+identifying full-length ALUs in batch 54 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 54 of 295
+identifying Simple Repeats in batch 55 of 295
+identifying full-length ALUs in batch 55 of 295
+identifying Simple Repeats in batch 56 of 295
+identifying remaining ALUs in batch 53 of 295
+identifying full-length ALUs in batch 56 of 295
+identifying full-length interspersed repeats in batch 55 of 295
+identifying full-length interspersed repeats in batch 56 of 295
+identifying remaining ALUs in batch 54 of 295
+identifying most interspersed repeats in batch 53 of 295
+identifying remaining ALUs in batch 55 of 295
+identifying remaining ALUs in batch 56 of 295
+identifying long interspersed repeats in batch 53 of 295
+identifying most interspersed repeats in batch 54 of 295
+identifying ancient repeats in batch 53 of 295
+identifying long interspersed repeats in batch 54 of 295
+identifying most interspersed repeats in batch 55 of 295
+identifying most interspersed repeats in batch 56 of 295
+identifying retrovirus-like sequences in batch 53 of 295
+identifying ancient repeats in batch 54 of 295
+identifying long interspersed repeats in batch 55 of 295
+identifying long interspersed repeats in batch 56 of 295
+identifying Simple Repeats in batch 53 of 295
+identifying retrovirus-like sequences in batch 54 of 295
+identifying ancient repeats in batch 55 of 295
+identifying ancient repeats in batch 56 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 54 of 295
+identifying retrovirus-like sequences in batch 55 of 295
+identifying Simple Repeats in batch 57 of 295
+identifying retrovirus-like sequences in batch 56 of 295
+identifying full-length ALUs in batch 57 of 295
+identifying Simple Repeats in batch 55 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 56 of 295
+identifying full-length interspersed repeats in batch 57 of 295
+identifying Simple Repeats in batch 58 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 58 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 59 of 295
+identifying full-length interspersed repeats in batch 58 of 295
+identifying full-length ALUs in batch 59 of 295
+identifying remaining ALUs in batch 57 of 295
+identifying Simple Repeats in batch 60 of 295
+identifying full-length ALUs in batch 60 of 295
+identifying full-length interspersed repeats in batch 59 of 295
+identifying full-length interspersed repeats in batch 60 of 295
+identifying remaining ALUs in batch 58 of 295
+identifying most interspersed repeats in batch 57 of 295
+identifying remaining ALUs in batch 59 of 295
+identifying long interspersed repeats in batch 57 of 295
+identifying remaining ALUs in batch 60 of 295
+identifying most interspersed repeats in batch 58 of 295
+identifying ancient repeats in batch 57 of 295
+identifying most interspersed repeats in batch 59 of 295
+identifying long interspersed repeats in batch 58 of 295
+identifying most interspersed repeats in batch 60 of 295
+identifying retrovirus-like sequences in batch 57 of 295
+identifying long interspersed repeats in batch 59 of 295
+identifying ancient repeats in batch 58 of 295
+identifying Simple Repeats in batch 57 of 295
+identifying long interspersed repeats in batch 60 of 295
+identifying ancient repeats in batch 59 of 295
+identifying retrovirus-like sequences in batch 58 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 60 of 295
+identifying Simple Repeats in batch 58 of 295
+identifying retrovirus-like sequences in batch 59 of 295
+identifying Simple Repeats in batch 61 of 295
+identifying full-length ALUs in batch 61 of 295
+identifying retrovirus-like sequences in batch 60 of 295
+identifying Simple Repeats in batch 59 of 295
+identifying full-length interspersed repeats in batch 61 of 295
+identifying Simple Repeats in batch 60 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 62 of 295
+identifying full-length ALUs in batch 62 of 295
+identifying Simple Repeats in batch 63 of 295
+identifying remaining ALUs in batch 61 of 295
+identifying full-length ALUs in batch 63 of 295
+identifying Simple Repeats in batch 64 of 295
+identifying full-length ALUs in batch 64 of 295
+identifying full-length interspersed repeats in batch 62 of 295
+identifying full-length interspersed repeats in batch 63 of 295
+identifying full-length interspersed repeats in batch 64 of 295
+identifying most interspersed repeats in batch 61 of 295
+identifying remaining ALUs in batch 62 of 295
+identifying remaining ALUs in batch 63 of 295
+identifying long interspersed repeats in batch 61 of 295
+identifying remaining ALUs in batch 64 of 295
+identifying most interspersed repeats in batch 62 of 295
+identifying ancient repeats in batch 61 of 295
+identifying most interspersed repeats in batch 63 of 295
+identifying most interspersed repeats in batch 64 of 295
+identifying retrovirus-like sequences in batch 61 of 295
+identifying long interspersed repeats in batch 62 of 295
+identifying Simple Repeats in batch 61 of 295
+identifying long interspersed repeats in batch 63 of 295
+identifying long interspersed repeats in batch 64 of 295
+identifying ancient repeats in batch 62 of 295
+identifying ancient repeats in batch 63 of 295
+identifying ancient repeats in batch 64 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 62 of 295
+identifying Simple Repeats in batch 65 of 295
+identifying retrovirus-like sequences in batch 64 of 295
+identifying Simple Repeats in batch 62 of 295
+identifying retrovirus-like sequences in batch 63 of 295
+identifying full-length ALUs in batch 65 of 295
+identifying Simple Repeats in batch 63 of 295
+identifying Simple Repeats in batch 64 of 295
+identifying full-length interspersed repeats in batch 65 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 66 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 66 of 295
+identifying Simple Repeats in batch 67 of 295
+identifying remaining ALUs in batch 65 of 295
+identifying Simple Repeats in batch 68 of 295
+identifying full-length ALUs in batch 67 of 295
+identifying full-length interspersed repeats in batch 66 of 295
+identifying full-length ALUs in batch 68 of 295
+identifying full-length interspersed repeats in batch 67 of 295
+identifying full-length interspersed repeats in batch 68 of 295
+identifying most interspersed repeats in batch 65 of 295
+identifying remaining ALUs in batch 66 of 295
+identifying remaining ALUs in batch 67 of 295
+identifying long interspersed repeats in batch 65 of 295
+identifying remaining ALUs in batch 68 of 295
+identifying most interspersed repeats in batch 66 of 295
+identifying ancient repeats in batch 65 of 295
+identifying most interspersed repeats in batch 67 of 295
+identifying most interspersed repeats in batch 68 of 295
+identifying retrovirus-like sequences in batch 65 of 295
+identifying long interspersed repeats in batch 66 of 295
+identifying long interspersed repeats in batch 67 of 295
+identifying Simple Repeats in batch 65 of 295
+identifying long interspersed repeats in batch 68 of 295
+identifying ancient repeats in batch 66 of 295
+identifying ancient repeats in batch 67 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 68 of 295
+identifying retrovirus-like sequences in batch 66 of 295
+identifying Simple Repeats in batch 69 of 295
+identifying retrovirus-like sequences in batch 67 of 295
+identifying retrovirus-like sequences in batch 68 of 295
+identifying Simple Repeats in batch 66 of 295
+identifying full-length ALUs in batch 69 of 295
+identifying Simple Repeats in batch 67 of 295
+identifying Simple Repeats in batch 68 of 295
+identifying full-length interspersed repeats in batch 69 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 70 of 295
+identifying full-length ALUs in batch 70 of 295
+identifying Simple Repeats in batch 71 of 295
+identifying remaining ALUs in batch 69 of 295
+identifying full-length ALUs in batch 71 of 295
+identifying Simple Repeats in batch 72 of 295
+identifying full-length interspersed repeats in batch 70 of 295
+identifying full-length ALUs in batch 72 of 295
+identifying full-length interspersed repeats in batch 71 of 295
+identifying full-length interspersed repeats in batch 72 of 295
+identifying most interspersed repeats in batch 69 of 295
+identifying remaining ALUs in batch 70 of 295
+identifying remaining ALUs in batch 71 of 295
+identifying long interspersed repeats in batch 69 of 295
+identifying remaining ALUs in batch 72 of 295
+identifying most interspersed repeats in batch 70 of 295
+identifying ancient repeats in batch 69 of 295
+identifying most interspersed repeats in batch 71 of 295
+identifying most interspersed repeats in batch 72 of 295
+identifying retrovirus-like sequences in batch 69 of 295
+identifying long interspersed repeats in batch 70 of 295
+identifying long interspersed repeats in batch 71 of 295
+identifying Simple Repeats in batch 69 of 295
+identifying ancient repeats in batch 70 of 295
+identifying long interspersed repeats in batch 72 of 295
+identifying ancient repeats in batch 71 of 295
+identifying retrovirus-like sequences in batch 70 of 295
+identifying ancient repeats in batch 72 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 71 of 295
+identifying Simple Repeats in batch 70 of 295
+identifying retrovirus-like sequences in batch 72 of 295
+identifying Simple Repeats in batch 73 of 295
+identifying full-length ALUs in batch 73 of 295
+identifying Simple Repeats in batch 71 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 72 of 295
+identifying full-length interspersed repeats in batch 73 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 74 of 295
+identifying full-length ALUs in batch 74 of 295
+identifying Simple Repeats in batch 75 of 295
+identifying full-length ALUs in batch 75 of 295
+identifying full-length interspersed repeats in batch 74 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 73 of 295
+identifying full-length interspersed repeats in batch 75 of 295
+identifying Simple Repeats in batch 76 of 295
+identifying full-length ALUs in batch 76 of 295
+identifying remaining ALUs in batch 74 of 295
+identifying full-length interspersed repeats in batch 76 of 295
+identifying most interspersed repeats in batch 73 of 295
+identifying remaining ALUs in batch 75 of 295
+identifying long interspersed repeats in batch 73 of 295
+identifying most interspersed repeats in batch 74 of 295
+identifying remaining ALUs in batch 76 of 295
+identifying ancient repeats in batch 73 of 295
+identifying most interspersed repeats in batch 75 of 295
+identifying long interspersed repeats in batch 74 of 295
+identifying retrovirus-like sequences in batch 73 of 295
+identifying long interspersed repeats in batch 75 of 295
+identifying most interspersed repeats in batch 76 of 295
+identifying ancient repeats in batch 74 of 295
+identifying Simple Repeats in batch 73 of 295
+identifying ancient repeats in batch 75 of 295
+identifying long interspersed repeats in batch 76 of 295
+identifying retrovirus-like sequences in batch 74 of 295
+identifying retrovirus-like sequences in batch 75 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 74 of 295
+identifying ancient repeats in batch 76 of 295
+identifying Simple Repeats in batch 75 of 295
+identifying Simple Repeats in batch 77 of 295
+identifying full-length ALUs in batch 77 of 295
+identifying retrovirus-like sequences in batch 76 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 77 of 295
+identifying Simple Repeats in batch 76 of 295
+identifying Simple Repeats in batch 78 of 295
+identifying full-length ALUs in batch 78 of 295
+identifying Simple Repeats in batch 79 of 295
+identifying full-length ALUs in batch 79 of 295
+identifying full-length interspersed repeats in batch 78 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 77 of 295
+identifying full-length interspersed repeats in batch 79 of 295
+identifying Simple Repeats in batch 80 of 295
+identifying full-length ALUs in batch 80 of 295
+identifying remaining ALUs in batch 78 of 295
+identifying most interspersed repeats in batch 77 of 295
+identifying remaining ALUs in batch 79 of 295
+identifying full-length interspersed repeats in batch 80 of 295
+identifying long interspersed repeats in batch 77 of 295
+identifying most interspersed repeats in batch 78 of 295
+identifying most interspersed repeats in batch 79 of 295
+identifying remaining ALUs in batch 80 of 295
+identifying ancient repeats in batch 77 of 295
+identifying long interspersed repeats in batch 78 of 295
+identifying long interspersed repeats in batch 79 of 295
+identifying retrovirus-like sequences in batch 77 of 295
+identifying ancient repeats in batch 78 of 295
+identifying most interspersed repeats in batch 80 of 295
+identifying ancient repeats in batch 79 of 295
+identifying Simple Repeats in batch 77 of 295
+identifying retrovirus-like sequences in batch 78 of 295
+identifying long interspersed repeats in batch 80 of 295
+identifying retrovirus-like sequences in batch 79 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 78 of 295
+identifying Simple Repeats in batch 79 of 295
+identifying ancient repeats in batch 80 of 295
+identifying Simple Repeats in batch 81 of 295
+identifying full-length ALUs in batch 81 of 295
+identifying retrovirus-like sequences in batch 80 of 295
+identifying full-length interspersed repeats in batch 81 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 80 of 295
+identifying Simple Repeats in batch 82 of 295
+identifying full-length ALUs in batch 82 of 295
+identifying Simple Repeats in batch 83 of 295
+identifying full-length ALUs in batch 83 of 295
+identifying remaining ALUs in batch 81 of 295
+identifying full-length interspersed repeats in batch 82 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 83 of 295
+identifying Simple Repeats in batch 84 of 295
+identifying full-length ALUs in batch 84 of 295
+identifying most interspersed repeats in batch 81 of 295
+identifying remaining ALUs in batch 82 of 295
+identifying full-length interspersed repeats in batch 84 of 295
+identifying remaining ALUs in batch 83 of 295
+identifying long interspersed repeats in batch 81 of 295
+identifying most interspersed repeats in batch 82 of 295
+identifying ancient repeats in batch 81 of 295
+identifying remaining ALUs in batch 84 of 295
+identifying most interspersed repeats in batch 83 of 295
+identifying long interspersed repeats in batch 82 of 295
+identifying retrovirus-like sequences in batch 81 of 295
+identifying long interspersed repeats in batch 83 of 295
+identifying most interspersed repeats in batch 84 of 295
+identifying Simple Repeats in batch 81 of 295
+identifying ancient repeats in batch 82 of 295
+identifying ancient repeats in batch 83 of 295
+identifying retrovirus-like sequences in batch 82 of 295
+identifying long interspersed repeats in batch 84 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 83 of 295
+identifying Simple Repeats in batch 82 of 295
+identifying Simple Repeats in batch 85 of 295
+identifying ancient repeats in batch 84 of 295
+identifying full-length ALUs in batch 85 of 295
+identifying Simple Repeats in batch 83 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 84 of 295
+identifying full-length interspersed repeats in batch 85 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 86 of 295
+identifying Simple Repeats in batch 84 of 295
+identifying full-length ALUs in batch 86 of 295
+identifying Simple Repeats in batch 87 of 295
+identifying full-length ALUs in batch 87 of 295
+identifying remaining ALUs in batch 85 of 295
+identifying full-length interspersed repeats in batch 86 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 87 of 295
+identifying Simple Repeats in batch 88 of 295
+identifying full-length ALUs in batch 88 of 295
+identifying most interspersed repeats in batch 85 of 295
+identifying remaining ALUs in batch 86 of 295
+identifying full-length interspersed repeats in batch 88 of 295
+identifying remaining ALUs in batch 87 of 295
+identifying long interspersed repeats in batch 85 of 295
+identifying most interspersed repeats in batch 86 of 295
+identifying ancient repeats in batch 85 of 295
+identifying remaining ALUs in batch 88 of 295
+identifying most interspersed repeats in batch 87 of 295
+identifying long interspersed repeats in batch 86 of 295
+identifying retrovirus-like sequences in batch 85 of 295
+identifying long interspersed repeats in batch 87 of 295
+identifying ancient repeats in batch 86 of 295
+identifying Simple Repeats in batch 85 of 295
+identifying most interspersed repeats in batch 88 of 295
+identifying ancient repeats in batch 87 of 295
+identifying retrovirus-like sequences in batch 86 of 295
+
+Checking for E. coli insertion elements
+identifying long interspersed repeats in batch 88 of 295
+identifying retrovirus-like sequences in batch 87 of 295
+identifying Simple Repeats in batch 86 of 295
+identifying Simple Repeats in batch 89 of 295
+identifying ancient repeats in batch 88 of 295
+identifying full-length ALUs in batch 89 of 295
+identifying Simple Repeats in batch 87 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 89 of 295
+identifying retrovirus-like sequences in batch 88 of 295
+identifying Simple Repeats in batch 90 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 90 of 295
+identifying Simple Repeats in batch 88 of 295
+identifying full-length interspersed repeats in batch 90 of 295
+identifying Simple Repeats in batch 91 of 295
+identifying remaining ALUs in batch 89 of 295
+identifying full-length ALUs in batch 91 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 91 of 295
+identifying Simple Repeats in batch 92 of 295
+identifying full-length ALUs in batch 92 of 295
+identifying most interspersed repeats in batch 89 of 295
+identifying remaining ALUs in batch 90 of 295
+identifying full-length interspersed repeats in batch 92 of 295
+identifying remaining ALUs in batch 91 of 295
+identifying long interspersed repeats in batch 89 of 295
+identifying most interspersed repeats in batch 90 of 295
+identifying ancient repeats in batch 89 of 295
+identifying remaining ALUs in batch 92 of 295
+identifying most interspersed repeats in batch 91 of 295
+identifying long interspersed repeats in batch 90 of 295
+identifying retrovirus-like sequences in batch 89 of 295
+identifying ancient repeats in batch 90 of 295
+identifying long interspersed repeats in batch 91 of 295
+identifying Simple Repeats in batch 89 of 295
+identifying most interspersed repeats in batch 92 of 295
+identifying retrovirus-like sequences in batch 90 of 295
+identifying ancient repeats in batch 91 of 295
+identifying long interspersed repeats in batch 92 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 90 of 295
+identifying retrovirus-like sequences in batch 91 of 295
+identifying ancient repeats in batch 92 of 295
+identifying Simple Repeats in batch 93 of 295
+identifying full-length ALUs in batch 93 of 295
+identifying Simple Repeats in batch 91 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 93 of 295
+identifying retrovirus-like sequences in batch 92 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 94 of 295
+identifying full-length ALUs in batch 94 of 295
+identifying Simple Repeats in batch 92 of 295
+identifying Simple Repeats in batch 95 of 295
+identifying full-length ALUs in batch 95 of 295
+identifying full-length interspersed repeats in batch 94 of 295
+identifying remaining ALUs in batch 93 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 95 of 295
+identifying Simple Repeats in batch 96 of 295
+identifying full-length ALUs in batch 96 of 295
+identifying remaining ALUs in batch 94 of 295
+identifying most interspersed repeats in batch 93 of 295
+identifying full-length interspersed repeats in batch 96 of 295
+identifying remaining ALUs in batch 95 of 295
+identifying long interspersed repeats in batch 93 of 295
+identifying most interspersed repeats in batch 94 of 295
+identifying ancient repeats in batch 93 of 295
+identifying remaining ALUs in batch 96 of 295
+identifying most interspersed repeats in batch 95 of 295
+identifying long interspersed repeats in batch 94 of 295
+identifying retrovirus-like sequences in batch 93 of 295
+identifying long interspersed repeats in batch 95 of 295
+identifying ancient repeats in batch 94 of 295
+identifying most interspersed repeats in batch 96 of 295
+identifying Simple Repeats in batch 93 of 295
+identifying ancient repeats in batch 95 of 295
+identifying retrovirus-like sequences in batch 94 of 295
+identifying long interspersed repeats in batch 96 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 95 of 295
+identifying Simple Repeats in batch 94 of 295
+identifying Simple Repeats in batch 97 of 295
+identifying ancient repeats in batch 96 of 295
+identifying full-length ALUs in batch 97 of 295
+identifying Simple Repeats in batch 95 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 96 of 295
+identifying full-length interspersed repeats in batch 97 of 295
+identifying Simple Repeats in batch 98 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 98 of 295
+identifying Simple Repeats in batch 96 of 295
+identifying Simple Repeats in batch 99 of 295
+identifying full-length interspersed repeats in batch 98 of 295
+identifying full-length ALUs in batch 99 of 295
+identifying remaining ALUs in batch 97 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 99 of 295
+identifying Simple Repeats in batch 100 of 295
+identifying full-length ALUs in batch 100 of 295
+identifying remaining ALUs in batch 98 of 295
+identifying most interspersed repeats in batch 97 of 295
+identifying full-length interspersed repeats in batch 100 of 295
+identifying remaining ALUs in batch 99 of 295
+identifying long interspersed repeats in batch 97 of 295
+identifying most interspersed repeats in batch 98 of 295
+identifying remaining ALUs in batch 100 of 295
+identifying ancient repeats in batch 97 of 295
+identifying most interspersed repeats in batch 99 of 295
+identifying long interspersed repeats in batch 98 of 295
+identifying retrovirus-like sequences in batch 97 of 295
+identifying ancient repeats in batch 98 of 295
+identifying long interspersed repeats in batch 99 of 295
+identifying most interspersed repeats in batch 100 of 295
+identifying Simple Repeats in batch 97 of 295
+identifying retrovirus-like sequences in batch 98 of 295
+identifying ancient repeats in batch 99 of 295
+identifying long interspersed repeats in batch 100 of 295
+identifying Simple Repeats in batch 98 of 295
+identifying retrovirus-like sequences in batch 99 of 295
+identifying ancient repeats in batch 100 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 99 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 101 of 295
+identifying retrovirus-like sequences in batch 100 of 295
+identifying full-length ALUs in batch 101 of 295
+identifying Simple Repeats in batch 102 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 102 of 295
+identifying Simple Repeats in batch 100 of 295
+identifying full-length interspersed repeats in batch 101 of 295
+identifying Simple Repeats in batch 103 of 295
+identifying full-length interspersed repeats in batch 102 of 295
+identifying full-length ALUs in batch 103 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 103 of 295
+identifying remaining ALUs in batch 101 of 295
+identifying Simple Repeats in batch 104 of 295
+identifying full-length ALUs in batch 104 of 295
+identifying remaining ALUs in batch 102 of 295
+identifying full-length interspersed repeats in batch 104 of 295
+identifying remaining ALUs in batch 103 of 295
+identifying most interspersed repeats in batch 101 of 295
+identifying most interspersed repeats in batch 102 of 295
+identifying long interspersed repeats in batch 101 of 295
+identifying remaining ALUs in batch 104 of 295
+identifying most interspersed repeats in batch 103 of 295
+identifying long interspersed repeats in batch 102 of 295
+identifying ancient repeats in batch 101 of 295
+identifying long interspersed repeats in batch 103 of 295
+identifying ancient repeats in batch 102 of 295
+identifying most interspersed repeats in batch 104 of 295
+identifying retrovirus-like sequences in batch 101 of 295
+identifying ancient repeats in batch 103 of 295
+identifying retrovirus-like sequences in batch 102 of 295
+identifying Simple Repeats in batch 101 of 295
+identifying long interspersed repeats in batch 104 of 295
+identifying retrovirus-like sequences in batch 103 of 295
+identifying Simple Repeats in batch 102 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 104 of 295
+identifying Simple Repeats in batch 103 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 105 of 295
+identifying retrovirus-like sequences in batch 104 of 295
+identifying full-length ALUs in batch 105 of 295
+identifying Simple Repeats in batch 106 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 106 of 295
+identifying Simple Repeats in batch 104 of 295
+identifying full-length interspersed repeats in batch 105 of 295
+identifying Simple Repeats in batch 107 of 295
+identifying full-length interspersed repeats in batch 106 of 295
+identifying full-length ALUs in batch 107 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 107 of 295
+identifying remaining ALUs in batch 105 of 295
+identifying Simple Repeats in batch 108 of 295
+identifying full-length ALUs in batch 108 of 295
+identifying remaining ALUs in batch 106 of 295
+identifying full-length interspersed repeats in batch 108 of 295
+identifying remaining ALUs in batch 107 of 295
+identifying most interspersed repeats in batch 105 of 295
+identifying most interspersed repeats in batch 106 of 295
+identifying long interspersed repeats in batch 105 of 295
+identifying remaining ALUs in batch 108 of 295
+identifying most interspersed repeats in batch 107 of 295
+identifying long interspersed repeats in batch 106 of 295
+identifying ancient repeats in batch 105 of 295
+identifying ancient repeats in batch 106 of 295
+identifying long interspersed repeats in batch 107 of 295
+identifying most interspersed repeats in batch 108 of 295
+identifying retrovirus-like sequences in batch 105 of 295
+identifying retrovirus-like sequences in batch 106 of 295
+identifying ancient repeats in batch 107 of 295
+identifying Simple Repeats in batch 105 of 295
+identifying long interspersed repeats in batch 108 of 295
+identifying Simple Repeats in batch 106 of 295
+identifying retrovirus-like sequences in batch 107 of 295
+identifying ancient repeats in batch 108 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 107 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 109 of 295
+identifying retrovirus-like sequences in batch 108 of 295
+identifying full-length ALUs in batch 109 of 295
+identifying Simple Repeats in batch 110 of 295
+identifying full-length ALUs in batch 110 of 295
+identifying Simple Repeats in batch 108 of 295
+identifying full-length interspersed repeats in batch 109 of 295
+identifying full-length interspersed repeats in batch 110 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 111 of 295
+identifying full-length ALUs in batch 111 of 295
+identifying remaining ALUs in batch 109 of 295
+identifying Simple Repeats in batch 112 of 295
+identifying full-length ALUs in batch 112 of 295
+identifying remaining ALUs in batch 110 of 295
+identifying full-length interspersed repeats in batch 111 of 295
+identifying full-length interspersed repeats in batch 112 of 295
+identifying most interspersed repeats in batch 109 of 295
+identifying most interspersed repeats in batch 110 of 295
+identifying remaining ALUs in batch 111 of 295
+identifying long interspersed repeats in batch 109 of 295
+identifying remaining ALUs in batch 112 of 295
+identifying long interspersed repeats in batch 110 of 295
+identifying ancient repeats in batch 109 of 295
+identifying most interspersed repeats in batch 111 of 295
+identifying ancient repeats in batch 110 of 295
+identifying most interspersed repeats in batch 112 of 295
+identifying retrovirus-like sequences in batch 109 of 295
+identifying retrovirus-like sequences in batch 110 of 295
+identifying long interspersed repeats in batch 111 of 295
+identifying Simple Repeats in batch 109 of 295
+identifying long interspersed repeats in batch 112 of 295
+identifying Simple Repeats in batch 110 of 295
+identifying ancient repeats in batch 111 of 295
+identifying ancient repeats in batch 112 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 111 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 112 of 295
+identifying Simple Repeats in batch 113 of 295
+identifying full-length ALUs in batch 113 of 295
+identifying Simple Repeats in batch 111 of 295
+identifying Simple Repeats in batch 114 of 295
+identifying full-length ALUs in batch 114 of 295
+identifying Simple Repeats in batch 112 of 295
+identifying full-length interspersed repeats in batch 113 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 114 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 115 of 295
+identifying Simple Repeats in batch 116 of 295
+identifying full-length ALUs in batch 115 of 295
+identifying full-length ALUs in batch 116 of 295
+identifying remaining ALUs in batch 113 of 295
+identifying remaining ALUs in batch 114 of 295
+identifying full-length interspersed repeats in batch 115 of 295
+identifying full-length interspersed repeats in batch 116 of 295
+identifying most interspersed repeats in batch 113 of 295
+identifying most interspersed repeats in batch 114 of 295
+identifying remaining ALUs in batch 115 of 295
+identifying remaining ALUs in batch 116 of 295
+identifying long interspersed repeats in batch 113 of 295
+identifying long interspersed repeats in batch 114 of 295
+identifying ancient repeats in batch 113 of 295
+identifying most interspersed repeats in batch 115 of 295
+identifying most interspersed repeats in batch 116 of 295
+identifying ancient repeats in batch 114 of 295
+identifying retrovirus-like sequences in batch 113 of 295
+identifying long interspersed repeats in batch 115 of 295
+identifying retrovirus-like sequences in batch 114 of 295
+identifying long interspersed repeats in batch 116 of 295
+identifying Simple Repeats in batch 113 of 295
+identifying Simple Repeats in batch 114 of 295
+identifying ancient repeats in batch 115 of 295
+identifying ancient repeats in batch 116 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 115 of 295
+identifying retrovirus-like sequences in batch 116 of 295
+identifying Simple Repeats in batch 117 of 295
+identifying full-length ALUs in batch 117 of 295
+identifying Simple Repeats in batch 118 of 295
+identifying Simple Repeats in batch 115 of 295
+identifying Simple Repeats in batch 116 of 295
+identifying full-length ALUs in batch 118 of 295
+identifying full-length interspersed repeats in batch 117 of 295
+identifying full-length interspersed repeats in batch 118 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 119 of 295
+identifying remaining ALUs in batch 117 of 295
+identifying Simple Repeats in batch 120 of 295
+identifying full-length ALUs in batch 119 of 295
+identifying full-length ALUs in batch 120 of 295
+identifying remaining ALUs in batch 118 of 295
+identifying full-length interspersed repeats in batch 119 of 295
+identifying full-length interspersed repeats in batch 120 of 295
+identifying most interspersed repeats in batch 117 of 295
+identifying most interspersed repeats in batch 118 of 295
+identifying remaining ALUs in batch 119 of 295
+identifying remaining ALUs in batch 120 of 295
+identifying long interspersed repeats in batch 117 of 295
+identifying long interspersed repeats in batch 118 of 295
+identifying ancient repeats in batch 117 of 295
+identifying ancient repeats in batch 118 of 295
+identifying most interspersed repeats in batch 119 of 295
+identifying most interspersed repeats in batch 120 of 295
+identifying retrovirus-like sequences in batch 117 of 295
+identifying retrovirus-like sequences in batch 118 of 295
+identifying long interspersed repeats in batch 119 of 295
+identifying long interspersed repeats in batch 120 of 295
+identifying Simple Repeats in batch 117 of 295
+identifying Simple Repeats in batch 118 of 295
+identifying ancient repeats in batch 119 of 295
+identifying ancient repeats in batch 120 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 119 of 295
+identifying retrovirus-like sequences in batch 120 of 295
+identifying Simple Repeats in batch 121 of 295
+identifying full-length ALUs in batch 121 of 295
+identifying Simple Repeats in batch 119 of 295
+identifying Simple Repeats in batch 122 of 295
+identifying Simple Repeats in batch 120 of 295
+identifying full-length ALUs in batch 122 of 295
+identifying full-length interspersed repeats in batch 121 of 295
+identifying full-length interspersed repeats in batch 122 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 123 of 295
+identifying full-length ALUs in batch 123 of 295
+identifying Simple Repeats in batch 124 of 295
+identifying full-length ALUs in batch 124 of 295
+identifying remaining ALUs in batch 121 of 295
+identifying remaining ALUs in batch 122 of 295
+identifying full-length interspersed repeats in batch 123 of 295
+identifying full-length interspersed repeats in batch 124 of 295
+identifying most interspersed repeats in batch 121 of 295
+identifying most interspersed repeats in batch 122 of 295
+identifying remaining ALUs in batch 123 of 295
+identifying remaining ALUs in batch 124 of 295
+identifying long interspersed repeats in batch 121 of 295
+identifying long interspersed repeats in batch 122 of 295
+identifying most interspersed repeats in batch 123 of 295
+identifying ancient repeats in batch 121 of 295
+identifying most interspersed repeats in batch 124 of 295
+identifying ancient repeats in batch 122 of 295
+identifying retrovirus-like sequences in batch 121 of 295
+identifying long interspersed repeats in batch 123 of 295
+identifying retrovirus-like sequences in batch 122 of 295
+identifying long interspersed repeats in batch 124 of 295
+identifying Simple Repeats in batch 121 of 295
+identifying ancient repeats in batch 123 of 295
+identifying Simple Repeats in batch 122 of 295
+identifying ancient repeats in batch 124 of 295
+identifying retrovirus-like sequences in batch 123 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 124 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 123 of 295
+identifying Simple Repeats in batch 125 of 295
+identifying Simple Repeats in batch 126 of 295
+identifying Simple Repeats in batch 124 of 295
+identifying full-length ALUs in batch 125 of 295
+identifying full-length ALUs in batch 126 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 125 of 295
+identifying full-length interspersed repeats in batch 126 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 127 of 295
+identifying full-length ALUs in batch 127 of 295
+identifying Simple Repeats in batch 128 of 295
+identifying full-length ALUs in batch 128 of 295
+identifying full-length interspersed repeats in batch 127 of 295
+identifying remaining ALUs in batch 125 of 295
+identifying remaining ALUs in batch 126 of 295
+identifying full-length interspersed repeats in batch 128 of 295
+identifying remaining ALUs in batch 127 of 295
+identifying most interspersed repeats in batch 125 of 295
+identifying most interspersed repeats in batch 126 of 295
+identifying remaining ALUs in batch 128 of 295
+identifying long interspersed repeats in batch 126 of 295
+identifying long interspersed repeats in batch 125 of 295
+identifying most interspersed repeats in batch 127 of 295
+identifying most interspersed repeats in batch 128 of 295
+identifying ancient repeats in batch 125 of 295
+identifying ancient repeats in batch 126 of 295
+identifying long interspersed repeats in batch 127 of 295
+identifying long interspersed repeats in batch 128 of 295
+identifying retrovirus-like sequences in batch 126 of 295
+identifying retrovirus-like sequences in batch 125 of 295
+identifying ancient repeats in batch 127 of 295
+identifying Simple Repeats in batch 126 of 295
+identifying Simple Repeats in batch 125 of 295
+identifying ancient repeats in batch 128 of 295
+identifying retrovirus-like sequences in batch 127 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 128 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 127 of 295
+identifying Simple Repeats in batch 129 of 295
+identifying Simple Repeats in batch 128 of 295
+identifying Simple Repeats in batch 130 of 295
+identifying full-length ALUs in batch 129 of 295
+identifying full-length ALUs in batch 130 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 129 of 295
+identifying full-length interspersed repeats in batch 130 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 131 of 295
+identifying full-length ALUs in batch 131 of 295
+identifying Simple Repeats in batch 132 of 295
+identifying full-length ALUs in batch 132 of 295
+identifying remaining ALUs in batch 129 of 295
+identifying full-length interspersed repeats in batch 131 of 295
+identifying remaining ALUs in batch 130 of 295
+identifying full-length interspersed repeats in batch 132 of 295
+identifying most interspersed repeats in batch 129 of 295
+identifying remaining ALUs in batch 131 of 295
+identifying most interspersed repeats in batch 130 of 295
+identifying remaining ALUs in batch 132 of 295
+identifying long interspersed repeats in batch 129 of 295
+identifying long interspersed repeats in batch 130 of 295
+identifying most interspersed repeats in batch 131 of 295
+identifying ancient repeats in batch 129 of 295
+identifying most interspersed repeats in batch 132 of 295
+identifying ancient repeats in batch 130 of 295
+identifying long interspersed repeats in batch 131 of 295
+identifying retrovirus-like sequences in batch 129 of 295
+identifying retrovirus-like sequences in batch 130 of 295
+identifying long interspersed repeats in batch 132 of 295
+identifying ancient repeats in batch 131 of 295
+identifying Simple Repeats in batch 129 of 295
+identifying Simple Repeats in batch 130 of 295
+identifying ancient repeats in batch 132 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 131 of 295
+identifying retrovirus-like sequences in batch 132 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 133 of 295
+identifying Simple Repeats in batch 131 of 295
+identifying full-length ALUs in batch 133 of 295
+identifying Simple Repeats in batch 132 of 295
+identifying Simple Repeats in batch 134 of 295
+identifying full-length ALUs in batch 134 of 295
+identifying full-length interspersed repeats in batch 133 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 134 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 135 of 295
+identifying Simple Repeats in batch 136 of 295
+identifying full-length ALUs in batch 135 of 295
+identifying full-length ALUs in batch 136 of 295
+identifying remaining ALUs in batch 133 of 295
+identifying remaining ALUs in batch 134 of 295
+identifying full-length interspersed repeats in batch 135 of 295
+identifying full-length interspersed repeats in batch 136 of 295
+identifying most interspersed repeats in batch 133 of 295
+identifying most interspersed repeats in batch 134 of 295
+identifying remaining ALUs in batch 135 of 295
+identifying remaining ALUs in batch 136 of 295
+identifying long interspersed repeats in batch 133 of 295
+identifying long interspersed repeats in batch 134 of 295
+identifying most interspersed repeats in batch 135 of 295
+identifying ancient repeats in batch 133 of 295
+identifying most interspersed repeats in batch 136 of 295
+identifying ancient repeats in batch 134 of 295
+identifying retrovirus-like sequences in batch 133 of 295
+identifying long interspersed repeats in batch 135 of 295
+identifying retrovirus-like sequences in batch 134 of 295
+identifying long interspersed repeats in batch 136 of 295
+identifying Simple Repeats in batch 133 of 295
+identifying ancient repeats in batch 135 of 295
+identifying Simple Repeats in batch 134 of 295
+identifying ancient repeats in batch 136 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 135 of 295
+identifying retrovirus-like sequences in batch 136 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 137 of 295
+identifying full-length ALUs in batch 137 of 295
+identifying Simple Repeats in batch 135 of 295
+identifying Simple Repeats in batch 136 of 295
+identifying Simple Repeats in batch 138 of 295
+identifying full-length ALUs in batch 138 of 295
+identifying full-length interspersed repeats in batch 137 of 295
+identifying full-length interspersed repeats in batch 138 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 139 of 295
+identifying full-length ALUs in batch 139 of 295
+identifying remaining ALUs in batch 137 of 295
+identifying Simple Repeats in batch 140 of 295
+identifying full-length ALUs in batch 140 of 295
+identifying remaining ALUs in batch 138 of 295
+identifying full-length interspersed repeats in batch 139 of 295
+identifying full-length interspersed repeats in batch 140 of 295
+identifying most interspersed repeats in batch 137 of 295
+identifying most interspersed repeats in batch 138 of 295
+identifying remaining ALUs in batch 139 of 295
+identifying long interspersed repeats in batch 137 of 295
+identifying remaining ALUs in batch 140 of 295
+identifying long interspersed repeats in batch 138 of 295
+identifying ancient repeats in batch 137 of 295
+identifying most interspersed repeats in batch 139 of 295
+identifying ancient repeats in batch 138 of 295
+identifying most interspersed repeats in batch 140 of 295
+identifying retrovirus-like sequences in batch 137 of 295
+identifying retrovirus-like sequences in batch 138 of 295
+identifying long interspersed repeats in batch 139 of 295
+identifying Simple Repeats in batch 137 of 295
+identifying long interspersed repeats in batch 140 of 295
+identifying Simple Repeats in batch 138 of 295
+identifying ancient repeats in batch 139 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 140 of 295
+identifying retrovirus-like sequences in batch 139 of 295
+identifying Simple Repeats in batch 141 of 295
+identifying retrovirus-like sequences in batch 140 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 141 of 295
+identifying Simple Repeats in batch 139 of 295
+identifying Simple Repeats in batch 140 of 295
+identifying Simple Repeats in batch 142 of 295
+identifying full-length interspersed repeats in batch 141 of 295
+identifying full-length ALUs in batch 142 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 142 of 295
+identifying remaining ALUs in batch 141 of 295
+identifying Simple Repeats in batch 143 of 295
+identifying Simple Repeats in batch 144 of 295
+identifying full-length ALUs in batch 143 of 295
+identifying full-length ALUs in batch 144 of 295
+identifying remaining ALUs in batch 142 of 295
+identifying full-length interspersed repeats in batch 143 of 295
+identifying full-length interspersed repeats in batch 144 of 295
+identifying most interspersed repeats in batch 141 of 295
+identifying most interspersed repeats in batch 142 of 295
+identifying remaining ALUs in batch 143 of 295
+identifying long interspersed repeats in batch 141 of 295
+identifying remaining ALUs in batch 144 of 295
+identifying ancient repeats in batch 141 of 295
+identifying long interspersed repeats in batch 142 of 295
+identifying most interspersed repeats in batch 143 of 295
+identifying most interspersed repeats in batch 144 of 295
+identifying ancient repeats in batch 142 of 295
+identifying retrovirus-like sequences in batch 141 of 295
+identifying long interspersed repeats in batch 143 of 295
+identifying Simple Repeats in batch 141 of 295
+identifying long interspersed repeats in batch 144 of 295
+identifying retrovirus-like sequences in batch 142 of 295
+identifying ancient repeats in batch 143 of 295
+identifying Simple Repeats in batch 142 of 295
+identifying ancient repeats in batch 144 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 143 of 295
+identifying retrovirus-like sequences in batch 144 of 295
+identifying Simple Repeats in batch 145 of 295
+identifying full-length ALUs in batch 145 of 295
+identifying Simple Repeats in batch 143 of 295
+identifying Simple Repeats in batch 144 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 145 of 295
+identifying Simple Repeats in batch 146 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 146 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 146 of 295
+identifying Simple Repeats in batch 147 of 295
+identifying remaining ALUs in batch 145 of 295
+identifying full-length ALUs in batch 147 of 295
+identifying Simple Repeats in batch 148 of 295
+identifying full-length ALUs in batch 148 of 295
+identifying full-length interspersed repeats in batch 147 of 295
+identifying full-length interspersed repeats in batch 148 of 295
+identifying remaining ALUs in batch 146 of 295
+identifying most interspersed repeats in batch 145 of 295
+identifying remaining ALUs in batch 147 of 295
+identifying long interspersed repeats in batch 145 of 295
+identifying remaining ALUs in batch 148 of 295
+identifying most interspersed repeats in batch 146 of 295
+identifying ancient repeats in batch 145 of 295
+identifying most interspersed repeats in batch 147 of 295
+identifying long interspersed repeats in batch 146 of 295
+identifying most interspersed repeats in batch 148 of 295
+identifying retrovirus-like sequences in batch 145 of 295
+identifying ancient repeats in batch 146 of 295
+identifying long interspersed repeats in batch 147 of 295
+identifying Simple Repeats in batch 145 of 295
+identifying long interspersed repeats in batch 148 of 295
+identifying retrovirus-like sequences in batch 146 of 295
+identifying ancient repeats in batch 147 of 295
+identifying ancient repeats in batch 148 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 146 of 295
+identifying retrovirus-like sequences in batch 147 of 295
+identifying Simple Repeats in batch 149 of 295
+identifying retrovirus-like sequences in batch 148 of 295
+identifying full-length ALUs in batch 149 of 295
+identifying Simple Repeats in batch 147 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 148 of 295
+identifying full-length interspersed repeats in batch 149 of 295
+identifying Simple Repeats in batch 150 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 150 of 295
+identifying Simple Repeats in batch 151 of 295
+identifying Simple Repeats in batch 152 of 295
+identifying full-length interspersed repeats in batch 150 of 295
+identifying remaining ALUs in batch 149 of 295
+identifying full-length ALUs in batch 151 of 295
+identifying full-length ALUs in batch 152 of 295
+identifying full-length interspersed repeats in batch 151 of 295
+identifying full-length interspersed repeats in batch 152 of 295
+identifying remaining ALUs in batch 150 of 295
+identifying most interspersed repeats in batch 149 of 295
+identifying remaining ALUs in batch 151 of 295
+identifying remaining ALUs in batch 152 of 295
+identifying long interspersed repeats in batch 149 of 295
+identifying most interspersed repeats in batch 150 of 295
+identifying ancient repeats in batch 149 of 295
+identifying most interspersed repeats in batch 151 of 295
+identifying most interspersed repeats in batch 152 of 295
+identifying long interspersed repeats in batch 150 of 295
+identifying retrovirus-like sequences in batch 149 of 295
+identifying ancient repeats in batch 150 of 295
+identifying long interspersed repeats in batch 151 of 295
+identifying long interspersed repeats in batch 152 of 295
+identifying Simple Repeats in batch 149 of 295
+identifying ancient repeats in batch 151 of 295
+identifying retrovirus-like sequences in batch 150 of 295
+identifying ancient repeats in batch 152 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 150 of 295
+identifying retrovirus-like sequences in batch 151 of 295
+identifying retrovirus-like sequences in batch 152 of 295
+identifying Simple Repeats in batch 153 of 295
+identifying full-length ALUs in batch 153 of 295
+identifying Simple Repeats in batch 151 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 152 of 295
+identifying full-length interspersed repeats in batch 153 of 295
+identifying Simple Repeats in batch 154 of 295
+identifying full-length ALUs in batch 154 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 154 of 295
+identifying remaining ALUs in batch 153 of 295
+identifying Simple Repeats in batch 155 of 295
+identifying full-length ALUs in batch 155 of 295
+identifying Simple Repeats in batch 156 of 295
+identifying full-length ALUs in batch 156 of 295
+identifying full-length interspersed repeats in batch 155 of 295
+identifying full-length interspersed repeats in batch 156 of 295
+identifying remaining ALUs in batch 154 of 295
+identifying most interspersed repeats in batch 153 of 295
+identifying long interspersed repeats in batch 153 of 295
+identifying remaining ALUs in batch 155 of 295
+identifying remaining ALUs in batch 156 of 295
+identifying most interspersed repeats in batch 154 of 295
+identifying ancient repeats in batch 153 of 295
+identifying most interspersed repeats in batch 155 of 295
+identifying long interspersed repeats in batch 154 of 295
+identifying retrovirus-like sequences in batch 153 of 295
+identifying most interspersed repeats in batch 156 of 295
+identifying ancient repeats in batch 154 of 295
+identifying long interspersed repeats in batch 155 of 295
+identifying Simple Repeats in batch 153 of 295
+identifying long interspersed repeats in batch 156 of 295
+identifying retrovirus-like sequences in batch 154 of 295
+identifying ancient repeats in batch 155 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 156 of 295
+identifying Simple Repeats in batch 154 of 295
+identifying Simple Repeats in batch 157 of 295
+identifying retrovirus-like sequences in batch 155 of 295
+identifying full-length ALUs in batch 157 of 295
+identifying retrovirus-like sequences in batch 156 of 295
+identifying Simple Repeats in batch 155 of 295
+identifying full-length interspersed repeats in batch 157 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 156 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 158 of 295
+identifying full-length ALUs in batch 158 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 157 of 295
+identifying Simple Repeats in batch 159 of 295
+identifying full-length interspersed repeats in batch 158 of 295
+identifying full-length ALUs in batch 159 of 295
+identifying Simple Repeats in batch 160 of 295
+identifying full-length ALUs in batch 160 of 295
+identifying full-length interspersed repeats in batch 159 of 295
+identifying most interspersed repeats in batch 157 of 295
+identifying full-length interspersed repeats in batch 160 of 295
+identifying remaining ALUs in batch 158 of 295
+identifying long interspersed repeats in batch 157 of 295
+identifying remaining ALUs in batch 159 of 295
+identifying remaining ALUs in batch 160 of 295
+identifying most interspersed repeats in batch 158 of 295
+identifying ancient repeats in batch 157 of 295
+identifying most interspersed repeats in batch 159 of 295
+identifying long interspersed repeats in batch 158 of 295
+identifying retrovirus-like sequences in batch 157 of 295
+identifying most interspersed repeats in batch 160 of 295
+identifying Simple Repeats in batch 157 of 295
+identifying long interspersed repeats in batch 159 of 295
+identifying ancient repeats in batch 158 of 295
+identifying long interspersed repeats in batch 160 of 295
+identifying ancient repeats in batch 159 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 158 of 295
+identifying ancient repeats in batch 160 of 295
+identifying Simple Repeats in batch 161 of 295
+identifying Simple Repeats in batch 158 of 295
+identifying retrovirus-like sequences in batch 159 of 295
+identifying full-length ALUs in batch 161 of 295
+identifying retrovirus-like sequences in batch 160 of 295
+identifying Simple Repeats in batch 159 of 295
+identifying full-length interspersed repeats in batch 161 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 160 of 295
+identifying Simple Repeats in batch 162 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 162 of 295
+identifying remaining ALUs in batch 161 of 295
+identifying Simple Repeats in batch 163 of 295
+identifying full-length interspersed repeats in batch 162 of 295
+identifying Simple Repeats in batch 164 of 295
+identifying full-length ALUs in batch 163 of 295
+identifying full-length ALUs in batch 164 of 295
+identifying full-length interspersed repeats in batch 163 of 295
+identifying full-length interspersed repeats in batch 164 of 295
+identifying most interspersed repeats in batch 161 of 295
+identifying remaining ALUs in batch 162 of 295
+identifying long interspersed repeats in batch 161 of 295
+identifying remaining ALUs in batch 163 of 295
+identifying remaining ALUs in batch 164 of 295
+identifying ancient repeats in batch 161 of 295
+identifying most interspersed repeats in batch 162 of 295
+identifying retrovirus-like sequences in batch 161 of 295
+identifying most interspersed repeats in batch 163 of 295
+identifying long interspersed repeats in batch 162 of 295
+identifying most interspersed repeats in batch 164 of 295
+identifying Simple Repeats in batch 161 of 295
+identifying long interspersed repeats in batch 163 of 295
+identifying ancient repeats in batch 162 of 295
+identifying long interspersed repeats in batch 164 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 163 of 295
+identifying retrovirus-like sequences in batch 162 of 295
+identifying ancient repeats in batch 164 of 295
+identifying Simple Repeats in batch 165 of 295
+identifying Simple Repeats in batch 162 of 295
+identifying retrovirus-like sequences in batch 163 of 295
+identifying full-length ALUs in batch 165 of 295
+identifying retrovirus-like sequences in batch 164 of 295
+identifying Simple Repeats in batch 163 of 295
+identifying full-length interspersed repeats in batch 165 of 295
+identifying Simple Repeats in batch 164 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 166 of 295
+identifying full-length ALUs in batch 166 of 295
+identifying Simple Repeats in batch 167 of 295
+identifying remaining ALUs in batch 165 of 295
+identifying full-length ALUs in batch 167 of 295
+identifying Simple Repeats in batch 168 of 295
+identifying full-length interspersed repeats in batch 166 of 295
+identifying full-length ALUs in batch 168 of 295
+identifying full-length interspersed repeats in batch 167 of 295
+identifying full-length interspersed repeats in batch 168 of 295
+identifying most interspersed repeats in batch 165 of 295
+identifying remaining ALUs in batch 166 of 295
+identifying remaining ALUs in batch 167 of 295
+identifying long interspersed repeats in batch 165 of 295
+identifying remaining ALUs in batch 168 of 295
+identifying most interspersed repeats in batch 166 of 295
+identifying ancient repeats in batch 165 of 295
+identifying most interspersed repeats in batch 167 of 295
+identifying most interspersed repeats in batch 168 of 295
+identifying retrovirus-like sequences in batch 165 of 295
+identifying long interspersed repeats in batch 166 of 295
+identifying long interspersed repeats in batch 167 of 295
+identifying Simple Repeats in batch 165 of 295
+identifying long interspersed repeats in batch 168 of 295
+identifying ancient repeats in batch 166 of 295
+identifying ancient repeats in batch 167 of 295
+identifying ancient repeats in batch 168 of 295
+identifying retrovirus-like sequences in batch 166 of 295
+identifying retrovirus-like sequences in batch 167 of 295
+identifying Simple Repeats in batch 166 of 295
+identifying retrovirus-like sequences in batch 168 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 167 of 295
+identifying Simple Repeats in batch 168 of 295
+identifying Simple Repeats in batch 169 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 169 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 170 of 295
+identifying full-length interspersed repeats in batch 169 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 170 of 295
+identifying Simple Repeats in batch 171 of 295
+identifying full-length ALUs in batch 171 of 295
+identifying Simple Repeats in batch 172 of 295
+identifying full-length interspersed repeats in batch 170 of 295
+identifying full-length ALUs in batch 172 of 295
+identifying remaining ALUs in batch 169 of 295
+identifying full-length interspersed repeats in batch 171 of 295
+identifying full-length interspersed repeats in batch 172 of 295
+identifying remaining ALUs in batch 170 of 295
+identifying most interspersed repeats in batch 169 of 295
+identifying remaining ALUs in batch 171 of 295
+identifying remaining ALUs in batch 172 of 295
+identifying most interspersed repeats in batch 170 of 295
+identifying long interspersed repeats in batch 169 of 295
+identifying most interspersed repeats in batch 171 of 295
+identifying most interspersed repeats in batch 172 of 295
+identifying ancient repeats in batch 169 of 295
+identifying long interspersed repeats in batch 170 of 295
+identifying long interspersed repeats in batch 171 of 295
+identifying ancient repeats in batch 170 of 295
+identifying retrovirus-like sequences in batch 169 of 295
+identifying long interspersed repeats in batch 172 of 295
+identifying ancient repeats in batch 171 of 295
+identifying Simple Repeats in batch 169 of 295
+identifying ancient repeats in batch 172 of 295
+identifying retrovirus-like sequences in batch 170 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 171 of 295
+identifying Simple Repeats in batch 170 of 295
+identifying retrovirus-like sequences in batch 172 of 295
+identifying Simple Repeats in batch 173 of 295
+identifying Simple Repeats in batch 171 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 173 of 295
+identifying Simple Repeats in batch 172 of 295
+identifying Simple Repeats in batch 174 of 295
+identifying full-length interspersed repeats in batch 173 of 295
+identifying full-length ALUs in batch 174 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 175 of 295
+identifying full-length ALUs in batch 175 of 295
+identifying Simple Repeats in batch 176 of 295
+identifying full-length interspersed repeats in batch 174 of 295
+identifying full-length ALUs in batch 176 of 295
+identifying remaining ALUs in batch 173 of 295
+identifying full-length interspersed repeats in batch 175 of 295
+identifying full-length interspersed repeats in batch 176 of 295
+identifying remaining ALUs in batch 174 of 295
+identifying most interspersed repeats in batch 173 of 295
+identifying remaining ALUs in batch 175 of 295
+identifying remaining ALUs in batch 176 of 295
+identifying long interspersed repeats in batch 173 of 295
+identifying most interspersed repeats in batch 174 of 295
+identifying most interspersed repeats in batch 175 of 295
+identifying ancient repeats in batch 173 of 295
+identifying most interspersed repeats in batch 176 of 295
+identifying long interspersed repeats in batch 174 of 295
+identifying retrovirus-like sequences in batch 173 of 295
+identifying long interspersed repeats in batch 175 of 295
+identifying long interspersed repeats in batch 176 of 295
+identifying ancient repeats in batch 174 of 295
+identifying Simple Repeats in batch 173 of 295
+identifying ancient repeats in batch 175 of 295
+identifying ancient repeats in batch 176 of 295
+identifying retrovirus-like sequences in batch 174 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 175 of 295
+identifying Simple Repeats in batch 174 of 295
+identifying retrovirus-like sequences in batch 176 of 295
+identifying Simple Repeats in batch 175 of 295
+identifying Simple Repeats in batch 177 of 295
+identifying full-length ALUs in batch 177 of 295
+identifying Simple Repeats in batch 176 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 177 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 178 of 295
+identifying Simple Repeats in batch 179 of 295
+identifying Simple Repeats in batch 180 of 295
+identifying full-length ALUs in batch 178 of 295
+identifying full-length ALUs in batch 179 of 295
+identifying full-length ALUs in batch 180 of 295
+identifying remaining ALUs in batch 177 of 295
+identifying full-length interspersed repeats in batch 178 of 295
+identifying full-length interspersed repeats in batch 179 of 295
+identifying full-length interspersed repeats in batch 180 of 295
+identifying most interspersed repeats in batch 177 of 295
+identifying remaining ALUs in batch 178 of 295
+identifying remaining ALUs in batch 179 of 295
+identifying remaining ALUs in batch 180 of 295
+identifying long interspersed repeats in batch 177 of 295
+identifying most interspersed repeats in batch 178 of 295
+identifying most interspersed repeats in batch 179 of 295
+identifying most interspersed repeats in batch 180 of 295
+identifying ancient repeats in batch 177 of 295
+identifying long interspersed repeats in batch 178 of 295
+identifying long interspersed repeats in batch 179 of 295
+identifying long interspersed repeats in batch 180 of 295
+identifying retrovirus-like sequences in batch 177 of 295
+identifying ancient repeats in batch 178 of 295
+identifying ancient repeats in batch 179 of 295
+identifying ancient repeats in batch 180 of 295
+identifying Simple Repeats in batch 177 of 295
+identifying retrovirus-like sequences in batch 178 of 295
+identifying retrovirus-like sequences in batch 179 of 295
+identifying retrovirus-like sequences in batch 180 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 178 of 295
+identifying Simple Repeats in batch 179 of 295
+identifying Simple Repeats in batch 180 of 295
+identifying Simple Repeats in batch 181 of 295
+identifying full-length ALUs in batch 181 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 181 of 295
+identifying Simple Repeats in batch 182 of 295
+identifying Simple Repeats in batch 183 of 295
+identifying full-length ALUs in batch 182 of 295
+identifying Simple Repeats in batch 184 of 295
+identifying full-length ALUs in batch 183 of 295
+identifying full-length ALUs in batch 184 of 295
+identifying full-length interspersed repeats in batch 182 of 295
+identifying full-length interspersed repeats in batch 183 of 295
+identifying remaining ALUs in batch 181 of 295
+identifying full-length interspersed repeats in batch 184 of 295
+identifying remaining ALUs in batch 182 of 295
+identifying remaining ALUs in batch 183 of 295
+identifying most interspersed repeats in batch 181 of 295
+identifying remaining ALUs in batch 184 of 295
+identifying long interspersed repeats in batch 181 of 295
+identifying most interspersed repeats in batch 182 of 295
+identifying most interspersed repeats in batch 183 of 295
+identifying most interspersed repeats in batch 184 of 295
+identifying ancient repeats in batch 181 of 295
+identifying long interspersed repeats in batch 182 of 295
+identifying long interspersed repeats in batch 183 of 295
+identifying long interspersed repeats in batch 184 of 295
+identifying retrovirus-like sequences in batch 181 of 295
+identifying ancient repeats in batch 182 of 295
+identifying ancient repeats in batch 183 of 295
+identifying ancient repeats in batch 184 of 295
+identifying Simple Repeats in batch 181 of 295
+identifying retrovirus-like sequences in batch 182 of 295
+identifying retrovirus-like sequences in batch 184 of 295
+identifying retrovirus-like sequences in batch 183 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 182 of 295
+identifying Simple Repeats in batch 184 of 295
+identifying Simple Repeats in batch 183 of 295
+identifying Simple Repeats in batch 185 of 295
+identifying full-length ALUs in batch 185 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 185 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 186 of 295
+identifying Simple Repeats in batch 187 of 295
+identifying full-length ALUs in batch 187 of 295
+identifying full-length ALUs in batch 186 of 295
+identifying Simple Repeats in batch 188 of 295
+identifying full-length ALUs in batch 188 of 295
+identifying full-length interspersed repeats in batch 187 of 295
+identifying full-length interspersed repeats in batch 186 of 295
+identifying remaining ALUs in batch 185 of 295
+identifying full-length interspersed repeats in batch 188 of 295
+identifying remaining ALUs in batch 186 of 295
+identifying remaining ALUs in batch 187 of 295
+identifying most interspersed repeats in batch 185 of 295
+identifying remaining ALUs in batch 188 of 295
+identifying long interspersed repeats in batch 185 of 295
+identifying most interspersed repeats in batch 186 of 295
+identifying most interspersed repeats in batch 187 of 295
+identifying most interspersed repeats in batch 188 of 295
+identifying ancient repeats in batch 185 of 295
+identifying long interspersed repeats in batch 186 of 295
+identifying long interspersed repeats in batch 187 of 295
+identifying long interspersed repeats in batch 188 of 295
+identifying retrovirus-like sequences in batch 185 of 295
+identifying ancient repeats in batch 186 of 295
+identifying ancient repeats in batch 187 of 295
+identifying Simple Repeats in batch 185 of 295
+identifying ancient repeats in batch 188 of 295
+identifying retrovirus-like sequences in batch 187 of 295
+identifying retrovirus-like sequences in batch 186 of 295
+identifying retrovirus-like sequences in batch 188 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 187 of 295
+identifying Simple Repeats in batch 186 of 295
+identifying Simple Repeats in batch 188 of 295
+identifying Simple Repeats in batch 189 of 295
+identifying full-length ALUs in batch 189 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 189 of 295
+identifying Simple Repeats in batch 190 of 295
+identifying full-length ALUs in batch 190 of 295
+identifying Simple Repeats in batch 191 of 295
+identifying full-length ALUs in batch 191 of 295
+identifying Simple Repeats in batch 192 of 295
+identifying full-length ALUs in batch 192 of 295
+identifying full-length interspersed repeats in batch 190 of 295
+identifying full-length interspersed repeats in batch 191 of 295
+identifying remaining ALUs in batch 189 of 295
+identifying full-length interspersed repeats in batch 192 of 295
+identifying remaining ALUs in batch 190 of 295
+identifying remaining ALUs in batch 191 of 295
+identifying most interspersed repeats in batch 189 of 295
+identifying remaining ALUs in batch 192 of 295
+identifying long interspersed repeats in batch 189 of 295
+identifying most interspersed repeats in batch 190 of 295
+identifying most interspersed repeats in batch 191 of 295
+identifying most interspersed repeats in batch 192 of 295
+identifying ancient repeats in batch 189 of 295
+identifying long interspersed repeats in batch 190 of 295
+identifying long interspersed repeats in batch 191 of 295
+identifying long interspersed repeats in batch 192 of 295
+identifying retrovirus-like sequences in batch 189 of 295
+identifying ancient repeats in batch 190 of 295
+identifying ancient repeats in batch 191 of 295
+identifying Simple Repeats in batch 189 of 295
+identifying ancient repeats in batch 192 of 295
+identifying retrovirus-like sequences in batch 190 of 295
+identifying retrovirus-like sequences in batch 191 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 192 of 295
+identifying Simple Repeats in batch 190 of 295
+identifying Simple Repeats in batch 191 of 295
+identifying Simple Repeats in batch 193 of 295
+identifying full-length ALUs in batch 193 of 295
+identifying Simple Repeats in batch 192 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 193 of 295
+identifying Simple Repeats in batch 194 of 295
+identifying Simple Repeats in batch 195 of 295
+identifying full-length ALUs in batch 195 of 295
+identifying full-length ALUs in batch 194 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 195 of 295
+identifying full-length interspersed repeats in batch 194 of 295
+identifying remaining ALUs in batch 193 of 295
+identifying Simple Repeats in batch 196 of 295
+identifying full-length ALUs in batch 196 of 295
+identifying full-length interspersed repeats in batch 196 of 295
+identifying remaining ALUs in batch 195 of 295
+identifying remaining ALUs in batch 194 of 295
+identifying most interspersed repeats in batch 193 of 295
+identifying long interspersed repeats in batch 193 of 295
+identifying remaining ALUs in batch 196 of 295
+identifying most interspersed repeats in batch 195 of 295
+identifying most interspersed repeats in batch 194 of 295
+identifying ancient repeats in batch 193 of 295
+identifying long interspersed repeats in batch 194 of 295
+identifying long interspersed repeats in batch 195 of 295
+identifying most interspersed repeats in batch 196 of 295
+identifying retrovirus-like sequences in batch 193 of 295
+identifying ancient repeats in batch 194 of 295
+identifying ancient repeats in batch 195 of 295
+identifying Simple Repeats in batch 193 of 295
+identifying long interspersed repeats in batch 196 of 295
+identifying retrovirus-like sequences in batch 195 of 295
+identifying retrovirus-like sequences in batch 194 of 295
+identifying ancient repeats in batch 196 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 195 of 295
+identifying Simple Repeats in batch 194 of 295
+identifying Simple Repeats in batch 197 of 295
+identifying retrovirus-like sequences in batch 196 of 295
+identifying full-length ALUs in batch 197 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 196 of 295
+identifying full-length interspersed repeats in batch 197 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 198 of 295
+identifying full-length ALUs in batch 198 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 199 of 295
+identifying full-length ALUs in batch 199 of 295
+identifying full-length interspersed repeats in batch 198 of 295
+identifying remaining ALUs in batch 197 of 295
+identifying Simple Repeats in batch 200 of 295
+identifying full-length ALUs in batch 200 of 295
+identifying full-length interspersed repeats in batch 199 of 295
+identifying full-length interspersed repeats in batch 200 of 295
+identifying remaining ALUs in batch 198 of 295
+identifying most interspersed repeats in batch 197 of 295
+identifying remaining ALUs in batch 199 of 295
+identifying long interspersed repeats in batch 197 of 295
+identifying remaining ALUs in batch 200 of 295
+identifying most interspersed repeats in batch 198 of 295
+identifying ancient repeats in batch 197 of 295
+identifying most interspersed repeats in batch 199 of 295
+identifying long interspersed repeats in batch 198 of 295
+identifying most interspersed repeats in batch 200 of 295
+identifying retrovirus-like sequences in batch 197 of 295
+identifying long interspersed repeats in batch 199 of 295
+identifying ancient repeats in batch 198 of 295
+identifying Simple Repeats in batch 197 of 295
+identifying long interspersed repeats in batch 200 of 295
+identifying ancient repeats in batch 199 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 198 of 295
+identifying ancient repeats in batch 200 of 295
+identifying retrovirus-like sequences in batch 199 of 295
+identifying Simple Repeats in batch 201 of 295
+identifying Simple Repeats in batch 198 of 295
+identifying full-length ALUs in batch 201 of 295
+identifying Simple Repeats in batch 199 of 295
+identifying retrovirus-like sequences in batch 200 of 295
+identifying full-length interspersed repeats in batch 201 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 200 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 202 of 295
+identifying full-length ALUs in batch 202 of 295
+identifying Simple Repeats in batch 203 of 295
+identifying full-length ALUs in batch 203 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 201 of 295
+identifying full-length interspersed repeats in batch 202 of 295
+identifying full-length interspersed repeats in batch 203 of 295
+identifying Simple Repeats in batch 204 of 295
+identifying full-length ALUs in batch 204 of 295
+identifying most interspersed repeats in batch 201 of 295
+identifying full-length interspersed repeats in batch 204 of 295
+identifying remaining ALUs in batch 202 of 295
+identifying remaining ALUs in batch 203 of 295
+identifying long interspersed repeats in batch 201 of 295
+identifying remaining ALUs in batch 204 of 295
+identifying ancient repeats in batch 201 of 295
+identifying most interspersed repeats in batch 202 of 295
+identifying most interspersed repeats in batch 203 of 295
+identifying retrovirus-like sequences in batch 201 of 295
+identifying long interspersed repeats in batch 202 of 295
+identifying long interspersed repeats in batch 203 of 295
+identifying most interspersed repeats in batch 204 of 295
+identifying Simple Repeats in batch 201 of 295
+identifying ancient repeats in batch 202 of 295
+identifying ancient repeats in batch 203 of 295
+identifying long interspersed repeats in batch 204 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 203 of 295
+identifying retrovirus-like sequences in batch 202 of 295
+identifying ancient repeats in batch 204 of 295
+identifying Simple Repeats in batch 205 of 295
+identifying Simple Repeats in batch 203 of 295
+identifying Simple Repeats in batch 202 of 295
+identifying full-length ALUs in batch 205 of 295
+identifying retrovirus-like sequences in batch 204 of 295
+identifying full-length interspersed repeats in batch 205 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 204 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 206 of 295
+identifying full-length ALUs in batch 206 of 295
+identifying Simple Repeats in batch 207 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 207 of 295
+identifying remaining ALUs in batch 205 of 295
+identifying full-length interspersed repeats in batch 206 of 295
+identifying full-length interspersed repeats in batch 207 of 295
+identifying Simple Repeats in batch 208 of 295
+identifying full-length ALUs in batch 208 of 295
+identifying full-length interspersed repeats in batch 208 of 295
+identifying most interspersed repeats in batch 205 of 295
+identifying remaining ALUs in batch 206 of 295
+identifying remaining ALUs in batch 207 of 295
+identifying long interspersed repeats in batch 205 of 295
+identifying remaining ALUs in batch 208 of 295
+identifying most interspersed repeats in batch 206 of 295
+identifying ancient repeats in batch 205 of 295
+identifying most interspersed repeats in batch 207 of 295
+identifying long interspersed repeats in batch 206 of 295
+identifying retrovirus-like sequences in batch 205 of 295
+identifying most interspersed repeats in batch 208 of 295
+identifying long interspersed repeats in batch 207 of 295
+identifying Simple Repeats in batch 205 of 295
+identifying ancient repeats in batch 206 of 295
+identifying ancient repeats in batch 207 of 295
+identifying long interspersed repeats in batch 208 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 206 of 295
+identifying ancient repeats in batch 208 of 295
+identifying retrovirus-like sequences in batch 207 of 295
+identifying Simple Repeats in batch 209 of 295
+identifying Simple Repeats in batch 206 of 295
+identifying full-length ALUs in batch 209 of 295
+identifying Simple Repeats in batch 207 of 295
+identifying retrovirus-like sequences in batch 208 of 295
+identifying full-length interspersed repeats in batch 209 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 208 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 210 of 295
+identifying full-length ALUs in batch 210 of 295
+identifying remaining ALUs in batch 209 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 211 of 295
+identifying full-length interspersed repeats in batch 210 of 295
+identifying full-length ALUs in batch 211 of 295
+identifying Simple Repeats in batch 212 of 295
+identifying full-length ALUs in batch 212 of 295
+identifying full-length interspersed repeats in batch 211 of 295
+identifying most interspersed repeats in batch 209 of 295
+identifying full-length interspersed repeats in batch 212 of 295
+identifying remaining ALUs in batch 210 of 295
+identifying long interspersed repeats in batch 209 of 295
+identifying remaining ALUs in batch 211 of 295
+identifying remaining ALUs in batch 212 of 295
+identifying ancient repeats in batch 209 of 295
+identifying most interspersed repeats in batch 210 of 295
+identifying most interspersed repeats in batch 211 of 295
+identifying retrovirus-like sequences in batch 209 of 295
+identifying long interspersed repeats in batch 210 of 295
+identifying most interspersed repeats in batch 212 of 295
+identifying Simple Repeats in batch 209 of 295
+identifying long interspersed repeats in batch 211 of 295
+identifying ancient repeats in batch 210 of 295
+identifying long interspersed repeats in batch 212 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 211 of 295
+identifying retrovirus-like sequences in batch 210 of 295
+identifying ancient repeats in batch 212 of 295
+identifying Simple Repeats in batch 213 of 295
+identifying Simple Repeats in batch 210 of 295
+identifying retrovirus-like sequences in batch 211 of 295
+identifying full-length ALUs in batch 213 of 295
+identifying retrovirus-like sequences in batch 212 of 295
+identifying Simple Repeats in batch 211 of 295
+identifying full-length interspersed repeats in batch 213 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 212 of 295
+identifying Simple Repeats in batch 214 of 295
+identifying full-length ALUs in batch 214 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 213 of 295
+identifying full-length interspersed repeats in batch 214 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 215 of 295
+identifying full-length ALUs in batch 215 of 295
+identifying Simple Repeats in batch 216 of 295
+identifying full-length ALUs in batch 216 of 295
+identifying full-length interspersed repeats in batch 215 of 295
+identifying most interspersed repeats in batch 213 of 295
+identifying remaining ALUs in batch 214 of 295
+identifying full-length interspersed repeats in batch 216 of 295
+identifying long interspersed repeats in batch 213 of 295
+identifying remaining ALUs in batch 215 of 295
+identifying most interspersed repeats in batch 214 of 295
+identifying ancient repeats in batch 213 of 295
+identifying remaining ALUs in batch 216 of 295
+identifying long interspersed repeats in batch 214 of 295
+identifying retrovirus-like sequences in batch 213 of 295
+identifying most interspersed repeats in batch 215 of 295
+identifying Simple Repeats in batch 213 of 295
+identifying ancient repeats in batch 214 of 295
+identifying most interspersed repeats in batch 216 of 295
+identifying long interspersed repeats in batch 215 of 295
+identifying retrovirus-like sequences in batch 214 of 295
+identifying long interspersed repeats in batch 216 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 215 of 295
+identifying Simple Repeats in batch 214 of 295
+identifying Simple Repeats in batch 217 of 295
+identifying ancient repeats in batch 216 of 295
+identifying retrovirus-like sequences in batch 215 of 295
+identifying full-length ALUs in batch 217 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 216 of 295
+identifying Simple Repeats in batch 215 of 295
+identifying full-length interspersed repeats in batch 217 of 295
+identifying Simple Repeats in batch 218 of 295
+identifying Simple Repeats in batch 216 of 295
+identifying full-length ALUs in batch 218 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 218 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 219 of 295
+identifying remaining ALUs in batch 217 of 295
+identifying full-length ALUs in batch 219 of 295
+identifying Simple Repeats in batch 220 of 295
+identifying full-length ALUs in batch 220 of 295
+identifying full-length interspersed repeats in batch 219 of 295
+identifying remaining ALUs in batch 218 of 295
+identifying full-length interspersed repeats in batch 220 of 295
+identifying most interspersed repeats in batch 217 of 295
+identifying remaining ALUs in batch 219 of 295
+identifying long interspersed repeats in batch 217 of 295
+identifying most interspersed repeats in batch 218 of 295
+identifying remaining ALUs in batch 220 of 295
+identifying ancient repeats in batch 217 of 295
+identifying long interspersed repeats in batch 218 of 295
+identifying most interspersed repeats in batch 219 of 295
+identifying most interspersed repeats in batch 220 of 295
+identifying ancient repeats in batch 218 of 295
+identifying retrovirus-like sequences in batch 217 of 295
+identifying long interspersed repeats in batch 219 of 295
+identifying Simple Repeats in batch 217 of 295
+identifying long interspersed repeats in batch 220 of 295
+identifying retrovirus-like sequences in batch 218 of 295
+identifying ancient repeats in batch 219 of 295
+identifying Simple Repeats in batch 218 of 295
+identifying ancient repeats in batch 220 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 219 of 295
+identifying retrovirus-like sequences in batch 220 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 221 of 295
+identifying Simple Repeats in batch 219 of 295
+identifying full-length ALUs in batch 221 of 295
+identifying Simple Repeats in batch 220 of 295
+identifying Simple Repeats in batch 222 of 295
+identifying full-length ALUs in batch 222 of 295
+identifying full-length interspersed repeats in batch 221 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 222 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 223 of 295
+identifying full-length ALUs in batch 223 of 295
+identifying Simple Repeats in batch 224 of 295
+identifying remaining ALUs in batch 221 of 295
+identifying full-length ALUs in batch 224 of 295
+identifying full-length interspersed repeats in batch 223 of 295
+identifying remaining ALUs in batch 222 of 295
+identifying full-length interspersed repeats in batch 224 of 295
+identifying most interspersed repeats in batch 221 of 295
+identifying remaining ALUs in batch 223 of 295
+identifying most interspersed repeats in batch 222 of 295
+identifying remaining ALUs in batch 224 of 295
+identifying long interspersed repeats in batch 221 of 295
+identifying long interspersed repeats in batch 222 of 295
+identifying ancient repeats in batch 221 of 295
+identifying most interspersed repeats in batch 223 of 295
+identifying most interspersed repeats in batch 224 of 295
+identifying ancient repeats in batch 222 of 295
+identifying retrovirus-like sequences in batch 221 of 295
+identifying long interspersed repeats in batch 223 of 295
+identifying long interspersed repeats in batch 224 of 295
+identifying retrovirus-like sequences in batch 222 of 295
+identifying Simple Repeats in batch 221 of 295
+identifying ancient repeats in batch 223 of 295
+identifying Simple Repeats in batch 222 of 295
+identifying ancient repeats in batch 224 of 295
+identifying retrovirus-like sequences in batch 223 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 224 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 223 of 295
+identifying Simple Repeats in batch 225 of 295
+identifying Simple Repeats in batch 224 of 295
+identifying full-length ALUs in batch 225 of 295
+identifying Simple Repeats in batch 226 of 295
+identifying full-length ALUs in batch 226 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 225 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 226 of 295
+identifying Simple Repeats in batch 227 of 295
+identifying full-length ALUs in batch 227 of 295
+identifying Simple Repeats in batch 228 of 295
+identifying full-length ALUs in batch 228 of 295
+identifying full-length interspersed repeats in batch 227 of 295
+identifying remaining ALUs in batch 225 of 295
+identifying remaining ALUs in batch 226 of 295
+identifying full-length interspersed repeats in batch 228 of 295
+identifying remaining ALUs in batch 227 of 295
+identifying most interspersed repeats in batch 225 of 295
+identifying most interspersed repeats in batch 226 of 295
+identifying remaining ALUs in batch 228 of 295
+identifying long interspersed repeats in batch 225 of 295
+identifying long interspersed repeats in batch 226 of 295
+identifying most interspersed repeats in batch 227 of 295
+identifying most interspersed repeats in batch 228 of 295
+identifying ancient repeats in batch 225 of 295
+identifying ancient repeats in batch 226 of 295
+identifying long interspersed repeats in batch 227 of 295
+identifying retrovirus-like sequences in batch 225 of 295
+identifying long interspersed repeats in batch 228 of 295
+identifying retrovirus-like sequences in batch 226 of 295
+identifying ancient repeats in batch 227 of 295
+identifying Simple Repeats in batch 225 of 295
+identifying Simple Repeats in batch 226 of 295
+identifying ancient repeats in batch 228 of 295
+identifying retrovirus-like sequences in batch 227 of 295
+identifying retrovirus-like sequences in batch 228 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 227 of 295
+identifying Simple Repeats in batch 228 of 295
+identifying Simple Repeats in batch 229 of 295
+identifying full-length ALUs in batch 229 of 295
+identifying Simple Repeats in batch 230 of 295
+identifying full-length ALUs in batch 230 of 295
+identifying full-length interspersed repeats in batch 229 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 230 of 295
+identifying Simple Repeats in batch 231 of 295
+identifying Simple Repeats in batch 232 of 295
+identifying full-length ALUs in batch 231 of 295
+identifying full-length ALUs in batch 232 of 295
+identifying remaining ALUs in batch 229 of 295
+identifying full-length interspersed repeats in batch 231 of 295
+identifying remaining ALUs in batch 230 of 295
+identifying full-length interspersed repeats in batch 232 of 295
+identifying most interspersed repeats in batch 229 of 295
+identifying remaining ALUs in batch 231 of 295
+identifying remaining ALUs in batch 232 of 295
+identifying most interspersed repeats in batch 230 of 295
+identifying long interspersed repeats in batch 229 of 295
+identifying long interspersed repeats in batch 230 of 295
+identifying most interspersed repeats in batch 231 of 295
+identifying most interspersed repeats in batch 232 of 295
+identifying ancient repeats in batch 229 of 295
+identifying ancient repeats in batch 230 of 295
+identifying long interspersed repeats in batch 231 of 295
+identifying long interspersed repeats in batch 232 of 295
+identifying retrovirus-like sequences in batch 229 of 295
+identifying retrovirus-like sequences in batch 230 of 295
+identifying Simple Repeats in batch 229 of 295
+identifying ancient repeats in batch 231 of 295
+identifying ancient repeats in batch 232 of 295
+identifying Simple Repeats in batch 230 of 295
+identifying retrovirus-like sequences in batch 231 of 295
+identifying retrovirus-like sequences in batch 232 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 231 of 295
+identifying Simple Repeats in batch 232 of 295
+identifying Simple Repeats in batch 233 of 295
+identifying full-length ALUs in batch 233 of 295
+identifying Simple Repeats in batch 234 of 295
+identifying full-length ALUs in batch 234 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 233 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 234 of 295
+identifying Simple Repeats in batch 235 of 295
+identifying full-length ALUs in batch 235 of 295
+identifying Simple Repeats in batch 236 of 295
+identifying full-length ALUs in batch 236 of 295
+identifying full-length interspersed repeats in batch 235 of 295
+identifying remaining ALUs in batch 233 of 295
+identifying full-length interspersed repeats in batch 236 of 295
+identifying remaining ALUs in batch 234 of 295
+identifying remaining ALUs in batch 235 of 295
+identifying most interspersed repeats in batch 233 of 295
+identifying remaining ALUs in batch 236 of 295
+identifying most interspersed repeats in batch 234 of 295
+identifying long interspersed repeats in batch 233 of 295
+identifying long interspersed repeats in batch 234 of 295
+identifying most interspersed repeats in batch 235 of 295
+identifying ancient repeats in batch 233 of 295
+identifying most interspersed repeats in batch 236 of 295
+identifying ancient repeats in batch 234 of 295
+identifying long interspersed repeats in batch 235 of 295
+identifying retrovirus-like sequences in batch 233 of 295
+identifying long interspersed repeats in batch 236 of 295
+identifying retrovirus-like sequences in batch 234 of 295
+identifying ancient repeats in batch 235 of 295
+identifying Simple Repeats in batch 233 of 295
+identifying ancient repeats in batch 236 of 295
+identifying Simple Repeats in batch 234 of 295
+identifying retrovirus-like sequences in batch 235 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 236 of 295
+identifying Simple Repeats in batch 235 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 237 of 295
+identifying Simple Repeats in batch 236 of 295
+identifying full-length ALUs in batch 237 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 238 of 295
+identifying full-length ALUs in batch 238 of 295
+identifying full-length interspersed repeats in batch 237 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 239 of 295
+identifying full-length ALUs in batch 239 of 295
+identifying full-length interspersed repeats in batch 238 of 295
+identifying Simple Repeats in batch 240 of 295
+identifying full-length ALUs in batch 240 of 295
+identifying full-length interspersed repeats in batch 239 of 295
+identifying remaining ALUs in batch 237 of 295
+identifying full-length interspersed repeats in batch 240 of 295
+identifying remaining ALUs in batch 238 of 295
+identifying remaining ALUs in batch 239 of 295
+identifying most interspersed repeats in batch 237 of 295
+identifying remaining ALUs in batch 240 of 295
+identifying most interspersed repeats in batch 238 of 295
+identifying long interspersed repeats in batch 237 of 295
+identifying most interspersed repeats in batch 239 of 295
+identifying long interspersed repeats in batch 238 of 295
+identifying ancient repeats in batch 237 of 295
+identifying most interspersed repeats in batch 240 of 295
+identifying long interspersed repeats in batch 239 of 295
+identifying ancient repeats in batch 238 of 295
+identifying retrovirus-like sequences in batch 237 of 295
+identifying long interspersed repeats in batch 240 of 295
+identifying ancient repeats in batch 239 of 295
+identifying Simple Repeats in batch 237 of 295
+identifying retrovirus-like sequences in batch 238 of 295
+identifying ancient repeats in batch 240 of 295
+identifying retrovirus-like sequences in batch 239 of 295
+identifying Simple Repeats in batch 238 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 240 of 295
+identifying Simple Repeats in batch 239 of 295
+identifying Simple Repeats in batch 241 of 295
+identifying full-length ALUs in batch 241 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 240 of 295
+identifying full-length interspersed repeats in batch 241 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 242 of 295
+identifying full-length ALUs in batch 242 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 243 of 295
+identifying full-length ALUs in batch 243 of 295
+identifying full-length interspersed repeats in batch 242 of 295
+identifying remaining ALUs in batch 241 of 295
+identifying Simple Repeats in batch 244 of 295
+identifying full-length interspersed repeats in batch 243 of 295
+identifying full-length ALUs in batch 244 of 295
+identifying full-length interspersed repeats in batch 244 of 295
+identifying remaining ALUs in batch 242 of 295
+identifying most interspersed repeats in batch 241 of 295
+identifying remaining ALUs in batch 243 of 295
+identifying long interspersed repeats in batch 241 of 295
+identifying remaining ALUs in batch 244 of 295
+identifying most interspersed repeats in batch 242 of 295
+identifying most interspersed repeats in batch 243 of 295
+identifying ancient repeats in batch 241 of 295
+identifying long interspersed repeats in batch 242 of 295
+identifying most interspersed repeats in batch 244 of 295
+identifying long interspersed repeats in batch 243 of 295
+identifying retrovirus-like sequences in batch 241 of 295
+identifying ancient repeats in batch 242 of 295
+identifying Simple Repeats in batch 241 of 295
+identifying long interspersed repeats in batch 244 of 295
+identifying ancient repeats in batch 243 of 295
+identifying retrovirus-like sequences in batch 242 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 244 of 295
+identifying Simple Repeats in batch 242 of 295
+identifying retrovirus-like sequences in batch 243 of 295
+identifying Simple Repeats in batch 245 of 295
+identifying Simple Repeats in batch 243 of 295
+identifying full-length ALUs in batch 245 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 244 of 295
+identifying full-length interspersed repeats in batch 245 of 295
+identifying Simple Repeats in batch 246 of 295
+identifying Simple Repeats in batch 244 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 246 of 295
+identifying Simple Repeats in batch 247 of 295
+identifying full-length ALUs in batch 247 of 295
+identifying full-length interspersed repeats in batch 246 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 245 of 295
+identifying full-length interspersed repeats in batch 247 of 295
+identifying Simple Repeats in batch 248 of 295
+identifying full-length ALUs in batch 248 of 295
+identifying remaining ALUs in batch 246 of 295
+identifying full-length interspersed repeats in batch 248 of 295
+identifying most interspersed repeats in batch 245 of 295
+identifying remaining ALUs in batch 247 of 295
+identifying most interspersed repeats in batch 246 of 295
+identifying long interspersed repeats in batch 245 of 295
+identifying remaining ALUs in batch 248 of 295
+identifying most interspersed repeats in batch 247 of 295
+identifying ancient repeats in batch 245 of 295
+identifying long interspersed repeats in batch 246 of 295
+identifying long interspersed repeats in batch 247 of 295
+identifying retrovirus-like sequences in batch 245 of 295
+identifying ancient repeats in batch 246 of 295
+identifying most interspersed repeats in batch 248 of 295
+identifying Simple Repeats in batch 245 of 295
+identifying ancient repeats in batch 247 of 295
+identifying retrovirus-like sequences in batch 246 of 295
+identifying long interspersed repeats in batch 248 of 295
+identifying Simple Repeats in batch 246 of 295
+identifying retrovirus-like sequences in batch 247 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 248 of 295
+identifying Simple Repeats in batch 247 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 249 of 295
+identifying full-length ALUs in batch 249 of 295
+identifying retrovirus-like sequences in batch 248 of 295
+identifying Simple Repeats in batch 250 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 250 of 295
+identifying full-length interspersed repeats in batch 249 of 295
+identifying Simple Repeats in batch 248 of 295
+identifying Simple Repeats in batch 251 of 295
+identifying full-length interspersed repeats in batch 250 of 295
+identifying full-length ALUs in batch 251 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 249 of 295
+identifying full-length interspersed repeats in batch 251 of 295
+identifying Simple Repeats in batch 252 of 295
+identifying full-length ALUs in batch 252 of 295
+identifying remaining ALUs in batch 250 of 295
+identifying full-length interspersed repeats in batch 252 of 295
+identifying most interspersed repeats in batch 249 of 295
+identifying remaining ALUs in batch 251 of 295
+identifying most interspersed repeats in batch 250 of 295
+identifying remaining ALUs in batch 252 of 295
+identifying long interspersed repeats in batch 249 of 295
+identifying most interspersed repeats in batch 251 of 295
+identifying long interspersed repeats in batch 250 of 295
+identifying ancient repeats in batch 249 of 295
+identifying most interspersed repeats in batch 252 of 295
+identifying long interspersed repeats in batch 251 of 295
+identifying ancient repeats in batch 250 of 295
+identifying retrovirus-like sequences in batch 249 of 295
+identifying ancient repeats in batch 251 of 295
+identifying long interspersed repeats in batch 252 of 295
+identifying Simple Repeats in batch 249 of 295
+identifying retrovirus-like sequences in batch 250 of 295
+identifying Simple Repeats in batch 250 of 295
+identifying retrovirus-like sequences in batch 251 of 295
+identifying ancient repeats in batch 252 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 251 of 295
+identifying Simple Repeats in batch 253 of 295
+identifying retrovirus-like sequences in batch 252 of 295
+identifying full-length ALUs in batch 253 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 252 of 295
+identifying full-length interspersed repeats in batch 253 of 295
+identifying Simple Repeats in batch 254 of 295
+identifying full-length ALUs in batch 254 of 295
+identifying Simple Repeats in batch 255 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 255 of 295
+identifying full-length interspersed repeats in batch 254 of 295
+identifying remaining ALUs in batch 253 of 295
+identifying Simple Repeats in batch 256 of 295
+identifying full-length interspersed repeats in batch 255 of 295
+identifying full-length ALUs in batch 256 of 295
+identifying full-length interspersed repeats in batch 256 of 295
+identifying remaining ALUs in batch 254 of 295
+identifying most interspersed repeats in batch 253 of 295
+identifying remaining ALUs in batch 255 of 295
+identifying long interspersed repeats in batch 253 of 295
+identifying remaining ALUs in batch 256 of 295
+identifying most interspersed repeats in batch 254 of 295
+identifying most interspersed repeats in batch 255 of 295
+identifying ancient repeats in batch 253 of 295
+identifying long interspersed repeats in batch 254 of 295
+identifying most interspersed repeats in batch 256 of 295
+identifying long interspersed repeats in batch 255 of 295
+identifying retrovirus-like sequences in batch 253 of 295
+identifying ancient repeats in batch 254 of 295
+identifying ancient repeats in batch 255 of 295
+identifying long interspersed repeats in batch 256 of 295
+identifying Simple Repeats in batch 253 of 295
+identifying retrovirus-like sequences in batch 254 of 295
+identifying ancient repeats in batch 256 of 295
+identifying retrovirus-like sequences in batch 255 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 254 of 295
+identifying Simple Repeats in batch 255 of 295
+identifying retrovirus-like sequences in batch 256 of 295
+identifying Simple Repeats in batch 257 of 295
+identifying full-length ALUs in batch 257 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 256 of 295
+identifying full-length interspersed repeats in batch 257 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 258 of 295
+identifying full-length ALUs in batch 258 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 259 of 295
+identifying full-length ALUs in batch 259 of 295
+identifying full-length interspersed repeats in batch 258 of 295
+identifying remaining ALUs in batch 257 of 295
+identifying Simple Repeats in batch 260 of 295
+identifying full-length ALUs in batch 260 of 295
+identifying full-length interspersed repeats in batch 259 of 295
+identifying full-length interspersed repeats in batch 260 of 295
+identifying remaining ALUs in batch 258 of 295
+identifying most interspersed repeats in batch 257 of 295
+identifying remaining ALUs in batch 259 of 295
+identifying long interspersed repeats in batch 257 of 295
+identifying remaining ALUs in batch 260 of 295
+identifying most interspersed repeats in batch 258 of 295
+identifying ancient repeats in batch 257 of 295
+identifying most interspersed repeats in batch 259 of 295
+identifying long interspersed repeats in batch 258 of 295
+identifying most interspersed repeats in batch 260 of 295
+identifying retrovirus-like sequences in batch 257 of 295
+identifying long interspersed repeats in batch 259 of 295
+identifying ancient repeats in batch 258 of 295
+identifying Simple Repeats in batch 257 of 295
+identifying long interspersed repeats in batch 260 of 295
+identifying ancient repeats in batch 259 of 295
+identifying retrovirus-like sequences in batch 258 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 260 of 295
+identifying retrovirus-like sequences in batch 259 of 295
+identifying Simple Repeats in batch 258 of 295
+identifying Simple Repeats in batch 261 of 295
+identifying retrovirus-like sequences in batch 260 of 295
+identifying full-length ALUs in batch 261 of 295
+identifying Simple Repeats in batch 259 of 295
+identifying Simple Repeats in batch 260 of 295
+identifying full-length interspersed repeats in batch 261 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 262 of 295
+
+Checking for E. coli insertion elements
+identifying full-length ALUs in batch 262 of 295
+identifying Simple Repeats in batch 263 of 295
+identifying remaining ALUs in batch 261 of 295
+identifying full-length ALUs in batch 263 of 295
+identifying full-length interspersed repeats in batch 262 of 295
+identifying Simple Repeats in batch 264 of 295
+identifying full-length ALUs in batch 264 of 295
+identifying full-length interspersed repeats in batch 263 of 295
+identifying full-length interspersed repeats in batch 264 of 295
+identifying most interspersed repeats in batch 261 of 295
+identifying remaining ALUs in batch 262 of 295
+identifying remaining ALUs in batch 263 of 295
+identifying long interspersed repeats in batch 261 of 295
+identifying remaining ALUs in batch 264 of 295
+identifying ancient repeats in batch 261 of 295
+identifying most interspersed repeats in batch 262 of 295
+identifying most interspersed repeats in batch 263 of 295
+identifying retrovirus-like sequences in batch 261 of 295
+identifying most interspersed repeats in batch 264 of 295
+identifying long interspersed repeats in batch 262 of 295
+identifying long interspersed repeats in batch 263 of 295
+identifying Simple Repeats in batch 261 of 295
+identifying ancient repeats in batch 262 of 295
+identifying long interspersed repeats in batch 264 of 295
+identifying ancient repeats in batch 263 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 264 of 295
+identifying retrovirus-like sequences in batch 262 of 295
+identifying retrovirus-like sequences in batch 263 of 295
+identifying Simple Repeats in batch 265 of 295
+identifying full-length ALUs in batch 265 of 295
+identifying Simple Repeats in batch 262 of 295
+identifying retrovirus-like sequences in batch 264 of 295
+identifying Simple Repeats in batch 263 of 295
+identifying full-length interspersed repeats in batch 265 of 295
+identifying Simple Repeats in batch 264 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 266 of 295
+identifying full-length ALUs in batch 266 of 295
+identifying Simple Repeats in batch 267 of 295
+identifying full-length ALUs in batch 267 of 295
+identifying remaining ALUs in batch 265 of 295
+identifying Simple Repeats in batch 268 of 295
+identifying full-length ALUs in batch 268 of 295
+identifying full-length interspersed repeats in batch 266 of 295
+identifying full-length interspersed repeats in batch 267 of 295
+identifying full-length interspersed repeats in batch 268 of 295
+identifying most interspersed repeats in batch 265 of 295
+identifying remaining ALUs in batch 266 of 295
+identifying remaining ALUs in batch 267 of 295
+identifying long interspersed repeats in batch 265 of 295
+identifying remaining ALUs in batch 268 of 295
+identifying ancient repeats in batch 265 of 295
+identifying most interspersed repeats in batch 266 of 295
+identifying most interspersed repeats in batch 267 of 295
+identifying most interspersed repeats in batch 268 of 295
+identifying retrovirus-like sequences in batch 265 of 295
+identifying long interspersed repeats in batch 266 of 295
+identifying long interspersed repeats in batch 267 of 295
+identifying Simple Repeats in batch 265 of 295
+identifying long interspersed repeats in batch 268 of 295
+identifying ancient repeats in batch 266 of 295
+identifying ancient repeats in batch 267 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 268 of 295
+identifying retrovirus-like sequences in batch 266 of 295
+identifying retrovirus-like sequences in batch 267 of 295
+identifying Simple Repeats in batch 269 of 295
+identifying full-length ALUs in batch 269 of 295
+identifying retrovirus-like sequences in batch 268 of 295
+identifying Simple Repeats in batch 266 of 295
+identifying Simple Repeats in batch 267 of 295
+identifying full-length interspersed repeats in batch 269 of 295
+identifying Simple Repeats in batch 268 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 270 of 295
+identifying full-length ALUs in batch 270 of 295
+identifying remaining ALUs in batch 269 of 295
+identifying Simple Repeats in batch 271 of 295
+identifying full-length ALUs in batch 271 of 295
+identifying Simple Repeats in batch 272 of 295
+identifying full-length ALUs in batch 272 of 295
+identifying full-length interspersed repeats in batch 270 of 295
+identifying full-length interspersed repeats in batch 271 of 295
+identifying full-length interspersed repeats in batch 272 of 295
+identifying most interspersed repeats in batch 269 of 295
+identifying remaining ALUs in batch 270 of 295
+identifying long interspersed repeats in batch 269 of 295
+identifying remaining ALUs in batch 271 of 295
+identifying remaining ALUs in batch 272 of 295
+identifying ancient repeats in batch 269 of 295
+identifying most interspersed repeats in batch 270 of 295
+identifying most interspersed repeats in batch 271 of 295
+identifying retrovirus-like sequences in batch 269 of 295
+identifying most interspersed repeats in batch 272 of 295
+identifying long interspersed repeats in batch 270 of 295
+identifying long interspersed repeats in batch 271 of 295
+identifying Simple Repeats in batch 269 of 295
+identifying long interspersed repeats in batch 272 of 295
+identifying ancient repeats in batch 270 of 295
+identifying ancient repeats in batch 271 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 272 of 295
+identifying retrovirus-like sequences in batch 270 of 295
+identifying retrovirus-like sequences in batch 271 of 295
+identifying Simple Repeats in batch 273 of 295
+identifying full-length ALUs in batch 273 of 295
+identifying Simple Repeats in batch 270 of 295
+identifying retrovirus-like sequences in batch 272 of 295
+identifying Simple Repeats in batch 271 of 295
+identifying full-length interspersed repeats in batch 273 of 295
+identifying Simple Repeats in batch 272 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 274 of 295
+identifying full-length ALUs in batch 274 of 295
+
+Checking for E. coli insertion elements
+identifying remaining ALUs in batch 273 of 295
+identifying Simple Repeats in batch 275 of 295
+identifying full-length ALUs in batch 275 of 295
+identifying full-length interspersed repeats in batch 274 of 295
+identifying Simple Repeats in batch 276 of 295
+identifying full-length ALUs in batch 276 of 295
+identifying full-length interspersed repeats in batch 275 of 295
+identifying most interspersed repeats in batch 273 of 295
+identifying full-length interspersed repeats in batch 276 of 295
+identifying remaining ALUs in batch 274 of 295
+identifying long interspersed repeats in batch 273 of 295
+identifying remaining ALUs in batch 275 of 295
+identifying remaining ALUs in batch 276 of 295
+identifying ancient repeats in batch 273 of 295
+identifying most interspersed repeats in batch 274 of 295
+identifying most interspersed repeats in batch 275 of 295
+identifying retrovirus-like sequences in batch 273 of 295
+identifying long interspersed repeats in batch 274 of 295
+identifying most interspersed repeats in batch 276 of 295
+identifying Simple Repeats in batch 273 of 295
+identifying long interspersed repeats in batch 275 of 295
+identifying ancient repeats in batch 274 of 295
+identifying long interspersed repeats in batch 276 of 295
+identifying ancient repeats in batch 275 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 274 of 295
+identifying ancient repeats in batch 276 of 295
+identifying Simple Repeats in batch 277 of 295
+identifying retrovirus-like sequences in batch 275 of 295
+identifying full-length ALUs in batch 277 of 295
+identifying Simple Repeats in batch 274 of 295
+identifying retrovirus-like sequences in batch 276 of 295
+identifying full-length interspersed repeats in batch 277 of 295
+identifying Simple Repeats in batch 275 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 276 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 278 of 295
+identifying Simple Repeats in batch 279 of 295
+identifying remaining ALUs in batch 277 of 295
+identifying full-length ALUs in batch 278 of 295
+identifying full-length ALUs in batch 279 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 278 of 295
+identifying full-length interspersed repeats in batch 279 of 295
+identifying Simple Repeats in batch 280 of 295
+identifying full-length ALUs in batch 280 of 295
+identifying most interspersed repeats in batch 277 of 295
+identifying full-length interspersed repeats in batch 280 of 295
+identifying remaining ALUs in batch 278 of 295
+identifying remaining ALUs in batch 279 of 295
+identifying long interspersed repeats in batch 277 of 295
+identifying ancient repeats in batch 277 of 295
+identifying remaining ALUs in batch 280 of 295
+identifying most interspersed repeats in batch 278 of 295
+identifying most interspersed repeats in batch 279 of 295
+identifying retrovirus-like sequences in batch 277 of 295
+identifying long interspersed repeats in batch 279 of 295
+identifying long interspersed repeats in batch 278 of 295
+identifying Simple Repeats in batch 277 of 295
+identifying most interspersed repeats in batch 280 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 279 of 295
+identifying ancient repeats in batch 278 of 295
+identifying long interspersed repeats in batch 280 of 295
+identifying Simple Repeats in batch 281 of 295
+identifying full-length ALUs in batch 281 of 295
+identifying retrovirus-like sequences in batch 279 of 295
+identifying retrovirus-like sequences in batch 278 of 295
+identifying ancient repeats in batch 280 of 295
+identifying full-length interspersed repeats in batch 281 of 295
+identifying Simple Repeats in batch 279 of 295
+identifying Simple Repeats in batch 278 of 295
+identifying retrovirus-like sequences in batch 280 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 280 of 295
+identifying remaining ALUs in batch 281 of 295
+identifying Simple Repeats in batch 282 of 295
+identifying Simple Repeats in batch 283 of 295
+identifying full-length ALUs in batch 282 of 295
+identifying full-length ALUs in batch 283 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 282 of 295
+identifying full-length interspersed repeats in batch 283 of 295
+identifying Simple Repeats in batch 284 of 295
+identifying full-length ALUs in batch 284 of 295
+identifying most interspersed repeats in batch 281 of 295
+identifying full-length interspersed repeats in batch 284 of 295
+identifying long interspersed repeats in batch 281 of 295
+identifying remaining ALUs in batch 282 of 295
+identifying remaining ALUs in batch 283 of 295
+identifying ancient repeats in batch 281 of 295
+identifying remaining ALUs in batch 284 of 295
+identifying retrovirus-like sequences in batch 281 of 295
+identifying most interspersed repeats in batch 282 of 295
+identifying most interspersed repeats in batch 283 of 295
+identifying Simple Repeats in batch 281 of 295
+identifying long interspersed repeats in batch 283 of 295
+identifying long interspersed repeats in batch 282 of 295
+identifying most interspersed repeats in batch 284 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 283 of 295
+identifying ancient repeats in batch 282 of 295
+identifying long interspersed repeats in batch 284 of 295
+identifying Simple Repeats in batch 285 of 295
+identifying full-length ALUs in batch 285 of 295
+identifying retrovirus-like sequences in batch 283 of 295
+identifying retrovirus-like sequences in batch 282 of 295
+identifying ancient repeats in batch 284 of 295
+identifying full-length interspersed repeats in batch 285 of 295
+identifying Simple Repeats in batch 283 of 295
+identifying Simple Repeats in batch 282 of 295
+identifying retrovirus-like sequences in batch 284 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 284 of 295
+identifying Simple Repeats in batch 286 of 295
+identifying remaining ALUs in batch 285 of 295
+identifying full-length ALUs in batch 286 of 295
+identifying Simple Repeats in batch 287 of 295
+identifying full-length ALUs in batch 287 of 295
+
+Checking for E. coli insertion elements
+identifying full-length interspersed repeats in batch 286 of 295
+identifying full-length interspersed repeats in batch 287 of 295
+identifying Simple Repeats in batch 288 of 295
+identifying full-length ALUs in batch 288 of 295
+identifying most interspersed repeats in batch 285 of 295
+identifying full-length interspersed repeats in batch 288 of 295
+identifying remaining ALUs in batch 286 of 295
+identifying long interspersed repeats in batch 285 of 295
+identifying remaining ALUs in batch 287 of 295
+identifying ancient repeats in batch 285 of 295
+identifying remaining ALUs in batch 288 of 295
+identifying most interspersed repeats in batch 286 of 295
+identifying most interspersed repeats in batch 287 of 295
+identifying retrovirus-like sequences in batch 285 of 295
+identifying long interspersed repeats in batch 287 of 295
+identifying long interspersed repeats in batch 286 of 295
+identifying Simple Repeats in batch 285 of 295
+identifying most interspersed repeats in batch 288 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 287 of 295
+identifying ancient repeats in batch 286 of 295
+identifying long interspersed repeats in batch 288 of 295
+identifying Simple Repeats in batch 289 of 295
+identifying retrovirus-like sequences in batch 287 of 295
+identifying full-length ALUs in batch 289 of 295
+identifying retrovirus-like sequences in batch 286 of 295
+identifying ancient repeats in batch 288 of 295
+identifying Simple Repeats in batch 287 of 295
+identifying full-length interspersed repeats in batch 289 of 295
+identifying Simple Repeats in batch 286 of 295
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 288 of 295
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 290 of 295
+identifying remaining ALUs in batch 289 of 295
+identifying full-length ALUs in batch 290 of 295
+identifying Simple Repeats in batch 288 of 295
+identifying Simple Repeats in batch 291 of 295
+identifying full-length ALUs in batch 291 of 295
+identifying full-length interspersed repeats in batch 290 of 295
+identifying full-length interspersed repeats in batch 291 of 295
+
+Checking for E. coli insertion elements
+identifying most interspersed repeats in batch 289 of 295
+identifying Simple Repeats in batch 292 of 295
+identifying full-length ALUs in batch 292 of 295
+identifying remaining ALUs in batch 290 of 295
+identifying long interspersed repeats in batch 289 of 295
+identifying remaining ALUs in batch 291 of 295
+identifying full-length interspersed repeats in batch 292 of 295
+identifying ancient repeats in batch 289 of 295
+identifying most interspersed repeats in batch 290 of 295
+identifying most interspersed repeats in batch 291 of 295
+identifying retrovirus-like sequences in batch 289 of 295
+identifying remaining ALUs in batch 292 of 295
+identifying long interspersed repeats in batch 290 of 295
+identifying Simple Repeats in batch 289 of 295
+identifying long interspersed repeats in batch 291 of 295
+identifying ancient repeats in batch 290 of 295
+
+Checking for E. coli insertion elements
+identifying ancient repeats in batch 291 of 295
+identifying most interspersed repeats in batch 292 of 295
+identifying retrovirus-like sequences in batch 290 of 295
+identifying Simple Repeats in batch 293 of 295
+identifying retrovirus-like sequences in batch 291 of 295
+identifying full-length ALUs in batch 293 of 295
+identifying long interspersed repeats in batch 292 of 295
+identifying Simple Repeats in batch 290 of 295
+identifying Simple Repeats in batch 291 of 295
+identifying full-length interspersed repeats in batch 293 of 295
+identifying ancient repeats in batch 292 of 295
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying retrovirus-like sequences in batch 292 of 295
+identifying Simple Repeats in batch 294 of 295
+identifying full-length ALUs in batch 294 of 295
+identifying remaining ALUs in batch 293 of 295
+identifying Simple Repeats in batch 295 of 295
+identifying Simple Repeats in batch 292 of 295
+identifying full-length ALUs in batch 295 of 295
+identifying full-length interspersed repeats in batch 294 of 295
+identifying full-length interspersed repeats in batch 295 of 295
+identifying most interspersed repeats in batch 293 of 295
+identifying remaining ALUs in batch 294 of 295
+identifying long interspersed repeats in batch 293 of 295
+identifying remaining ALUs in batch 295 of 295
+identifying ancient repeats in batch 293 of 295
+identifying most interspersed repeats in batch 294 of 295
+identifying most interspersed repeats in batch 295 of 295
+identifying retrovirus-like sequences in batch 293 of 295
+identifying long interspersed repeats in batch 294 of 295
+identifying Simple Repeats in batch 293 of 295
+identifying long interspersed repeats in batch 295 of 295
+identifying ancient repeats in batch 294 of 295
+identifying ancient repeats in batch 295 of 295
+identifying retrovirus-like sequences in batch 294 of 295
+identifying retrovirus-like sequences in batch 295 of 295
+identifying Simple Repeats in batch 294 of 295
+identifying Simple Repeats in batch 295 of 295
+processing output: 
+cycle 1 ....
+cycle 2 ....
+cycle 3 ....
+cycle 4 ....
+cycle 5 
+cycle 6 ....
+cycle 7 ....
+cycle 8 ....
+cycle 9 ....
+cycle 10 ....
+Generating output... ....
+masking
+done

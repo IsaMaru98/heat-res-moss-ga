@@ -1,0 +1,3 @@
+Error while flushing and closing output
+terminate called after throwing an instance of 'int'
+(ERR): hisat2-align died with signal 6 (ABRT) (core dumped)

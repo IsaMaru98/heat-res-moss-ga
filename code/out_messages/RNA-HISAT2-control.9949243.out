@@ -1,0 +1,98 @@
+21684383 reads; of these:
+  21684383 (100.00%) were paired; of these:
+    19802884 (91.32%) aligned concordantly 0 times
+    1742360 (8.04%) aligned concordantly exactly 1 time
+    139139 (0.64%) aligned concordantly >1 times
+    ----
+    19802884 pairs aligned concordantly 0 times; of these:
+      17354 (0.09%) aligned discordantly 1 time
+    ----
+    19785530 pairs aligned 0 times concordantly or discordantly; of these:
+      39571060 mates make up the pairs; of these:
+        39292922 (99.30%) aligned 0 times
+        254094 (0.64%) aligned exactly 1 time
+        24044 (0.06%) aligned >1 times
+9.40% overall alignment rate
+21983448 reads; of these:
+  21983448 (100.00%) were paired; of these:
+    20266280 (92.19%) aligned concordantly 0 times
+    1611230 (7.33%) aligned concordantly exactly 1 time
+    105938 (0.48%) aligned concordantly >1 times
+    ----
+    20266280 pairs aligned concordantly 0 times; of these:
+      17275 (0.09%) aligned discordantly 1 time
+    ----
+    20249005 pairs aligned 0 times concordantly or discordantly; of these:
+      40498010 mates make up the pairs; of these:
+        40247246 (99.38%) aligned 0 times
+        229811 (0.57%) aligned exactly 1 time
+        20953 (0.05%) aligned >1 times
+8.46% overall alignment rate
+22921737 reads; of these:
+  22921737 (100.00%) were paired; of these:
+    21084438 (91.98%) aligned concordantly 0 times
+    1702929 (7.43%) aligned concordantly exactly 1 time
+    134370 (0.59%) aligned concordantly >1 times
+    ----
+    21084438 pairs aligned concordantly 0 times; of these:
+      15232 (0.07%) aligned discordantly 1 time
+    ----
+    21069206 pairs aligned 0 times concordantly or discordantly; of these:
+      42138412 mates make up the pairs; of these:
+        41923574 (99.49%) aligned 0 times
+        195232 (0.46%) aligned exactly 1 time
+        19606 (0.05%) aligned >1 times
+8.55% overall alignment rate
+22254075 reads; of these:
+  22254075 (100.00%) were paired; of these:
+    20384686 (91.60%) aligned concordantly 0 times
+    1712995 (7.70%) aligned concordantly exactly 1 time
+    156394 (0.70%) aligned concordantly >1 times
+    ----
+    20384686 pairs aligned concordantly 0 times; of these:
+      9171 (0.04%) aligned discordantly 1 time
+    ----
+    20375515 pairs aligned 0 times concordantly or discordantly; of these:
+      40751030 mates make up the pairs; of these:
+        40569253 (99.55%) aligned 0 times
+        161732 (0.40%) aligned exactly 1 time
+        20045 (0.05%) aligned >1 times
+8.85% overall alignment rate
+21629229 reads; of these:
+  21629229 (100.00%) were paired; of these:
+    19845256 (91.75%) aligned concordantly 0 times
+    1653436 (7.64%) aligned concordantly exactly 1 time
+    130537 (0.60%) aligned concordantly >1 times
+    ----
+    19845256 pairs aligned concordantly 0 times; of these:
+      13048 (0.07%) aligned discordantly 1 time
+    ----
+    19832208 pairs aligned 0 times concordantly or discordantly; of these:
+      39664416 mates make up the pairs; of these:
+        39490534 (99.56%) aligned 0 times
+        156846 (0.40%) aligned exactly 1 time
+        17036 (0.04%) aligned >1 times
+8.71% overall alignment rate
+Error while flushing and closing output
+terminate called after throwing an instance of 'int'
+Error while flushing and closing output
+terminate called recursively
+(ERR): hisat2-align died with signal 6 (ABRT) (core dumped)
+samtools sort: failed writing to "control_1.sorted.bam.tmp.0000.bam": No such file or directory
+samtools sort: failed writing to "control_2.sorted.bam.tmp.0000.bam": No such file or directory
+samtools sort: failed writing to "control_3.sorted.bam.tmp.0000.bam": No such file or directory
+samtools sort: failed writing to "heat_treated_1.sorted.bam.tmp.0000.bam": No such file or directory
+samtools sort: failed writing to "heat_treated_2.sorted.bam.tmp.0000.bam": No such file or directory
+samtools sort: failed writing to "heat_treated_3.sorted.bam.tmp.0000.bam": No such file or directory
+[E::hts_open_format] Failed to open file "control_1.sorted.bam" : No such file or directory
+samtools index: failed to open "control_1.sorted.bam": No such file or directory
+[E::hts_open_format] Failed to open file "control_2.sorted.bam" : No such file or directory
+samtools index: failed to open "control_2.sorted.bam": No such file or directory
+[E::hts_open_format] Failed to open file "control_3.sorted.bam" : No such file or directory
+samtools index: failed to open "control_3.sorted.bam": No such file or directory
+[E::hts_open_format] Failed to open file "heat_treated_1.sorted.bam" : No such file or directory
+samtools index: failed to open "heat_treated_1.sorted.bam": No such file or directory
+[E::hts_open_format] Failed to open file "heat_treated_2.sorted.bam" : No such file or directory
+samtools index: failed to open "heat_treated_2.sorted.bam": No such file or directory
+[E::hts_open_format] Failed to open file "heat_treated_3.sorted.bam" : No such file or directory
+samtools index: failed to open "heat_treated_3.sorted.bam": No such file or directory

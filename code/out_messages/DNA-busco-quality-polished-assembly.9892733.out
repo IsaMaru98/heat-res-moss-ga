@@ -1,0 +1,25 @@
+augustus/3.5.0-20231223-33fc04d: If you see errors about not being able to write to an augustus directory, see 'module help augustus/3.5.0-20231223-33fc04d'
+The environment variable BUSCO_LINEAGE_SETS is set to a directory containing
+BUSCO v5 lineage sets.  Use with the -l option, for example:
+
+    busco -l $BUSCO_LINEAGE_SETS/fungi_odb10 ...
+
+A list of available lineage sets is provided via 'module help BUSCO/5.7.1'
+
+----
+If you see this error from BUSCO:
+
+    Error: Cannot write to Augustus directory, please make sure you have write permissions to <directory>
+
+then you need to create a local copy of the config directory from the augustus
+module with 'source $AUGUSTUS_CONFIG_COPY'.  See 'module help augustus/3.5.0-20231223-33fc04d'
+
+Copying Augustus config directory to current directory...adjusting permissions...updating AUGUSTUS_CONFIG_PATH...done
+export AUGUSTUS_CONFIG_PATH=/home/isamaru/genome-analysis/DNA_analysis/03_DNA_evaluation/03_2_busco/augustus_config
+2025-04-10 09:56:00 INFO:	***** Start a BUSCO v5.7.1 analysis, current time: 04/10/2025 09:56:00 *****
+2025-04-10 09:56:00 INFO:	Configuring BUSCO with /sw/bioinfo/BUSCO/5.7.1/snowy/config.ini
+2025-04-10 09:56:00 WARNING:	There is a conflict in your config. You specified a dataset from odb12 while simultaneously requesting the datasets_version parameter be odb10. Proceeding with the lineage dataset as specified from odb12
+2025-04-10 09:56:00 ERROR:	BUSCO v5 only works with datasets from OrthoDB v10 (with the suffix '_odb10'). For a full list of available datasets, enter 'busco --list-datasets'. You can also run BUSCO using --auto-lineage, to allow BUSCO to automatically select the best dataset for your input data.
+2025-04-10 09:56:00 ERROR:	BUSCO analysis failed!
+2025-04-10 09:56:00 ERROR:	Check the logs, read the user guide (https://busco.ezlab.org/busco_userguide.html), and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues
+
