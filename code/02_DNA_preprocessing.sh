@@ -10,8 +10,11 @@
 #SBATCH --output=%x.%j.out
 # Load modules
 module load bioinfo-tools
-module load FastQC/0.11.9ll
+module load FastQC/0.11.9
+
 # Your commands
 export JOBDIR=/home/isamaru/genome-analysis/DNA_analysis/02_DNA_preprocessing
 cd $JOBDIR
-fastqc $JOBDIR/output_trimmed_1U.fastq.gz -o $JOBDIR
+#fastqc $JOBDIR/output_trimmed_1U.fastq.gz -o $JOBDIR
+fastqc output_forward_paired.fastq.gz output_reverse_paired.fastq.gz -o $JOBDIR
+

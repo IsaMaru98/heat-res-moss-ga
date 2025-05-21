@@ -10,14 +10,27 @@
 #SBATCH --mail-user=mama8042@student.uu.se
 #SBATCH --output=%x.%j.out
 
-module load bioinfo-tools samtools braker/2.1.6 augustus/3.5.0 GeneMark/4.68-es
-export AUGUSTUS_CONFIG_PATH=/home/isamaru/genome-analysis/augustus_config
-export AUGUSTUS_BIN_PATH=$(dirname $(which augustus))
-export AUGUSTUS_SCRIPTS_PATH=$(dirname $(which autoAug.pl))
-export GENEMARK_PATH=/sw/bioinfo/GeneMark/4.68-es/snowy/gmes_petap
+module load bioinfo-tools samtools braker/2.1.6
+
 
 GENOME=/home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/scaffolds_scaffolds_final.fa.masked
 BAM=/proj/uppmax2025-3-3/nobackup/work/isamaru/hisat2
+OUT=/home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation
+PROT=/proj/uppmax2025-3-3/Genome_Analysis/4_Zhou_2023/embryophyte_proteomes.faa
+cd "$OUT"
 
-braker.pl --cores=8 --AUGUSTUS_CONFIG_PATH=//home/isamaru/genome-analysis/augustus_config --AUGUSTUS_BIN_PATH=/sw/bioinfo/augustus/3.4.0/snowy/bin --AUGUSTUS_SCRIPTS_PATH=/sw/bioinfo/augustus/3.4.0/snowy/scripts --GENEMARK_PATH=/sw/bioinfo/GeneMark/4.68-es/snowy --genome="$GENOME" --bam="$BAM"/control_1.sorted.bam,"$BAM"/control_2.sorted.bam,"$BAM"/control_3.sorted.bam --prot_seq=/proj/uppmax2025-3-3/Genome_Analysis/4_Zhou_2023/embryophyte_proteomes.faa --gff3 --etpmode
+#Delete dir from prev run
+rm -rf braker
+
+braker.pl --cores=16 \
+--AUGUSTUS_CONFIG_PATH=$OUT/augustus_config \
+--AUGUSTUS_BIN_PATH=/sw/bioinfo/augustus/3.4.0/snowy/bin \
+--AUGUSTUS_SCRIPTS_PATH=/sw/bioinfo/augustus/3.4.0/snowy/scripts \
+--GENEMARK_PATH=/sw/bioinfo/GeneMark/4.68-es/snowy \
+--genome=$GENOME \
+--bam=$BAM/control_1.sorted.bam,$BAM/control_2.sorted.bam,$BAM/control_3.sorted.bam \
+--prot_seq=$PROT \
+--gff3 \
+--etpmode \
+--softmasking
 
