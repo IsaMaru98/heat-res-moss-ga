@@ -8,3 +8,5 @@
 *.bam
 *.bai
 *.log
+code/._*
+code/.._*

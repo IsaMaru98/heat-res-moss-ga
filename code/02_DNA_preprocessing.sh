@@ -15,6 +15,8 @@ module load FastQC/0.11.9
 # Your commands
 export JOBDIR=/home/isamaru/genome-analysis/DNA_analysis/02_DNA_preprocessing
 cd $JOBDIR
+#Evaluate as  single end 
 #fastqc $JOBDIR/output_trimmed_1U.fastq.gz -o $JOBDIR
+#Evaluate as pair end
 fastqc output_forward_paired.fastq.gz output_reverse_paired.fastq.gz -o $JOBDIR
 
