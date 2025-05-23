@@ -12,8 +12,12 @@
 
 module load bioinfo-tools eggNOG-mapper/2.1.9
 GFF3=/home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/braker/braker.gff3
-PROTEINS=/home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/braker/proteins.fa
-OUT_DIR=/home/isamaru/genome-analysis/DNA_analysis/07_differential_expression
+#I innitially ran the script with this file, but this was incorrect, the correct sequence file is agat_sequence.aa
+#PROTEINS=/home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/braker/proteins.fa
+PROTEINS=/home/isamaru/genome-analysis/DNA_analysis/05_DNA_annotation/braker/agat_sequence.aa
+OUT_DIR=/home/isamaru/genome-analysis/DNA_analysis/07_differential_expression/rerun
+
+mkdir -p $OUT_DIR
 
 emapper.py \
     --cpu 8 \
